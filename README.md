@@ -110,7 +110,7 @@ Prueba las dos ramas por separado y **cuenta el inventario antes y después**.
 
 ### 1.4 Experiencia y nivel
 
-- Acertar te da la experiencia completa de la receta. Fallar te da el 15%.
+- Acertar te da la experiencia completa de la receta. Fallar te da el 12%.
 - Al llegar a **nivel 20** dejas de ganar experiencia y el mensaje te dirá que
   ya dominas el oficio. Comprueba que el número **no sigue subiendo**.
 - **Sólo puedes tener dos oficios a nivel 2 o más.** Alquimia es la excepción y
