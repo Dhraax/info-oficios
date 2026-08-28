@@ -23,14 +23,14 @@ Las marcas de las tablas se explican en
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
-| Tablones de Pino | 3×-Leño de pino | 1 | 10 | 6 | 120 |
-| Tablones de Cedro | 3×-Leño de cedro | 4 | 14 | 9 | 168 |
-| Tablones de Abeto | 3×-Leño de abeto | 6 | 17 | 11 | 204 |
-| Tablones de Roble | 3×-Leño de roble | 9 | 21 | 14 | 252 |
-| Tablones de Sombralto | 3×-Leño de sombralto | 12 | 24 | 17 | 288 |
+| Tablones de pino | 3×-Leño de pino | 1 | 10 | 6 | 120 |
+| Tablones de cedro | 3×-Leño de cedro | 4 | 14 | 9 | 168 |
+| Tablones de abeto | 3×-Leño de abeto | 6 | 17 | 11 | 204 |
+| Tablones de roble | 3×-Leño de roble | 9 | 21 | 14 | 252 |
+| Tablones de sombralto | 3×-Leño de sombralto | 12 | 24 | 17 | 288 |
 | Tablones de Leñocaso | 3× -eño de Leñocaso | 15 | 28 | 19 | 336 |
-| Tablones de Zalantar | 3×-Leño de zalantar | 17 | 31 | 22 | 372 |
-| Tablones de Maderadique | 3×-Leño de maderadique | 20 | 35 | 24 | 420 |
+| Tablones de zalantar | 3×-Leño de zalantar | 17 | 31 | 22 | 372 |
+| Tablones de maderadique | 3×-Leño de maderadique | 20 | 35 | 24 | 420 |
 
 ### Banco de carpintero — Flechas
 

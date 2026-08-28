@@ -92,20 +92,20 @@ algunas combinaciones requieren más de una unidad.
 
 ### Huecos de conjuro
 
-| Esencia | Producto | Cristal | Máximo | Nivel | DC inicial | XP al máximo | Equipo | Ubicación |
-|---|---|---|---|---|---|---|---|---|
-| Devoción de mártir | Huecos clerigo | Hada | 6 | 1 | 10 | 28 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Encanto de lilenda | Huecos bardo | Hada | 6 | 2 | 11 | 31 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Enigma de ginoesfinge | Huecos mago | Hada | 6 | 2 | 12 | 32 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Fervor de ent | Huecos druida | Hada | 6 | 3 | 13 | 35 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Instinto de lobo terrible | Huecos explorador | Hada | 3 | 4 | 13 | 37 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Plumas de couatl | Huecos hechicero | Hada | 6 | 4 | 14 | 39 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Nobleza de grifo | Huecos paladin | Hada | 3 | 5 | 15 | 42 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Vuelo de semicelestial | Huecos alma predilecta | Hada | 6 | 5 | 16 | 44 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Tinieblas de noctámbulo | Huecos paladin oscuro | Hada | 3 | 6 | 16 | 46 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Ferocidad de erinia | Huecos paladin vengador | Hada | 3 | 6 | 17 | 49 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Astucia de márilith | Huecos artifice | Hada | 3 | 7 | 18 | 53 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
-| Tutelaje de deva astral | Huecos caballero de la luz | Hada | 3 | 7 | 18 | 51 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Esencia | Producto | Cristal | Esfera: esencias / DC / XP | Nivel | Equipo | Ubicación |
+|---|---|---|---|---|---|---|
+| Devoción de mártir | Huecos clerigo | Hada | 1: 1 / 10 / 5; 2: 2 / 11 / 9; 3: 3 / 12 / 14; 4: 4 / 13 / 19; 5: 5 / 14 / 23; 6: 6 / 15 / 28 | 1 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Encanto de lilenda | Huecos bardo | Hada | 1: 1 / 11 / 5; 2: 2 / 12 / 10; 3: 3 / 13 / 16; 4: 4 / 14 / 21; 5: 5 / 15 / 26; 6: 6 / 16 / 31 | 2 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Enigma de ginoesfinge | Huecos mago | Hada | 1: 1 / 12 / 5; 2: 2 / 13 / 11; 3: 3 / 14 / 16; 4: 4 / 15 / 21; 5: 5 / 16 / 27; 6: 6 / 17 / 32 | 2 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Fervor de ent | Huecos druida | Hada | 1: 1 / 13 / 6; 2: 2 / 14 / 12; 3: 3 / 15 / 18; 4: 4 / 16 / 23; 5: 5 / 17 / 29; 6: 6 / 18 / 35 | 3 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Instinto de lobo terrible | Huecos explorador | Hada | 1: 2 / 13 / 18; 2: 3 / 14 / 28; 3: 4 / 15 / 37 | 4 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Plumas de couatl | Huecos hechicero | Hada | 1: 1 / 14 / 6; 2: 2 / 15 / 13; 3: 3 / 16 / 20; 4: 4 / 17 / 26; 5: 5 / 18 / 32; 6: 6 / 19 / 39 | 4 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Nobleza de grifo | Huecos paladin | Hada | 1: 2 / 15 / 21; 2: 3 / 16 / 32; 3: 4 / 17 / 42 | 5 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Vuelo de semicelestial | Huecos alma predilecta | Hada | 1: 1 / 16 / 7; 2: 2 / 17 / 15; 3: 3 / 18 / 22; 4: 4 / 19 / 29; 5: 5 / 20 / 37; 6: 6 / 21 / 44 | 5 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Tinieblas de noctámbulo | Huecos paladin oscuro | Hada | 1: 2 / 16 / 23; 2: 3 / 17 / 34; 3: 4 / 18 / 46 | 6 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Ferocidad de erinia | Huecos paladin vengador | Hada | 1: 2 / 17 / 24; 2: 3 / 18 / 37; 3: 4 / 19 / 49 | 6 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Astucia de márilith | Huecos artifice | Hada | 1: 2 / 18 / 26; 2: 3 / 19 / 40; 3: 4 / 20 / 53 | 7 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
+| Tutelaje de deva astral | Huecos caballero de la luz | Hada | 1: 2 / 18 / 26; 2: 3 / 19 / 38; 3: 4 / 20 / 51 | 7 | Armadura, escudo, yelmo, baston, baston de mago, daga de mago, colgante, anillo | Loot azul claro y criaturas nivel 10 o menos en % |
 
 ### Otros
 
