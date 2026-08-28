@@ -24,7 +24,7 @@ seleccionada. Retira lo que no hayas usado antes de alejarte de la estación.
 | **Oro** | Coste del intento; también se paga si la tirada falla |
 | `*` | Componente de forma, como un molde, plantilla o botella: se conserva al fallar y se consume al acertar |
 | `[elige]` | La receta abre una selección adicional para escoger el producto final |
-| `×N` en el resultado | Cantidad de unidades que entrega la receta |
+| `×-` en el resultado | Cantidad de unidades que entrega la receta |
 | `+` en el resultado | La receta entrega además un segundo objeto |
 
 El menú oculta las recetas que superan tu nivel. El libro de oficios de la

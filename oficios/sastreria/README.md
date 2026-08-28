@@ -19,7 +19,7 @@ también cuando el intento falla.
 Las marcas de las tablas se explican en
 [Cómo leer una receta](../../README.md#cómo-leer-una-receta).
 
-### Mesa de sastrería — Ropas
+### Mesa de sastrería - Ropas
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@ Las marcas de las tablas se explican en
 | Ropa de cuero de dragón de ácido | 2× S-da Fina, 4× Cu-ro de piel de draco de acido, 1× Pla-tilla para armadura * | 18 | 32 | 74 | 384 |
 | Ropa de cuero de dragón de rayo | 2× -eda Fina, 4× C-ero de piel de draco de rayo, 1× Pl-ntilla para armadura * | 20 | 35 | 81 | 420 |
 
-### Mesa de sastrería — Brazales de cuero
+### Mesa de sastrería - Brazales de cuero
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@ Las marcas de las tablas se explican en
 | Brazales de cuero de dragón de ácido | 4× C-ero de piel de draco de acido, 1× Pl-ntilla para brazales *, 1× Sed- Fina | 18 | 32 | 74 | 384 |
 | Brazales de cuero de dragón de rayo | 4× -uero de piel de draco de rayo, 1× P-antilla para brazales *, 1× Se-a Fina | 20 | 35 | 81 | 420 |
 
-### Mesa de sastrería — Capa
+### Mesa de sastrería - Capa
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
