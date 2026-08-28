@@ -23,43 +23,43 @@ Las marcas de las tablas se explican en
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
-| Ropa de cuero de roedor | 2×-Seda Fina, 1× -uero de piel de roedor, 1× P-antilla para armadura * | 1 | 10 | 21 | 120 |
-| Ropa de cuero de herbívoro | 2× -eda Fina, 1× C-ero de piel de herbivoro, 1× Pl-ntilla para armadura * | 3 | 13 | 28 | 156 |
-| Ropa de cuero de bestia salvaje | 2×-Seda Fina, 2× -uero de piel de bestia salvaje, 1× P-antilla para armadura * | 5 | 16 | 34 | 192 |
-| Ropa de cuero de bestia salvaje grande | 2×-Seda Fina, 2× -uero de piel de bestia salvaje grande, 1× P-antilla para armadura * | 7 | 18 | 41 | 216 |
-| Ropa de cuero de bestia mítica | 2× -eda Fina, 3× C-ero de piel de bestia mitica, 1× Pl-ntilla para armadura * | 9 | 21 | 48 | 252 |
-| Ropa de cuero de bestia mítica gruesa | 2× -eda Fina, 3× C-ero de piel de bestia mitica gruesa, 1× Pl-ntilla para armadura * | 12 | 24 | 54 | 288 |
-| Ropa de cuero de dragón de fuego | 2× -eda Fina, 4× C-ero de piel de draco de fuego, 1× Pl-ntilla para armadura * | 14 | 27 | 61 | 324 |
-| Ropa de cuero de dragón de hielo | 2× -eda Fina, 4× C-ero de piel de draco de hielo, 1× Pl-ntilla para armadura * | 16 | 29 | 68 | 348 |
-| Ropa de cuero de dragón de ácido | 2× S-da Fina, 4× Cu-ro de piel de draco de acido, 1× Pla-tilla para armadura * | 18 | 32 | 74 | 384 |
-| Ropa de cuero de dragón de rayo | 2× -eda Fina, 4× C-ero de piel de draco de rayo, 1× Pl-ntilla para armadura * | 20 | 35 | 81 | 420 |
+| Ropa de cuero de roedor | 2× Seda Fina, 1× Cuero de piel de roedor, 1× Plantilla para armadura * | 1 | 10 | 21 | 120 |
+| Ropa de cuero de herbívoro | 2× Seda Fina, 1× Cuero de piel de herbívoro, 1× Plantilla para armadura * | 3 | 13 | 28 | 156 |
+| Ropa de cuero de bestia salvaje | 2× Seda Fina, 2× Cuero de piel de bestia salvaje, 1× Plantilla para armadura * | 5 | 16 | 34 | 192 |
+| Ropa de cuero de bestia salvaje grande | 2× Seda Fina, 2× Cuero de piel de bestia salvaje grande, 1× Plantilla para armadura * | 7 | 18 | 41 | 216 |
+| Ropa de cuero de bestia mítica | 2× Seda Fina, 3× Cuero de piel de bestia mítica, 1× Plantilla para armadura * | 9 | 21 | 48 | 252 |
+| Ropa de cuero de bestia mítica gruesa | 2× Seda Fina, 3× Cuero de piel de bestia mítica gruesa, 1× Plantilla para armadura * | 12 | 24 | 54 | 288 |
+| Ropa de cuero de dragón de fuego | 2× Seda Fina, 4× Cuero de piel de draco de fuego, 1× Plantilla para armadura * | 14 | 27 | 61 | 324 |
+| Ropa de cuero de dragón de hielo | 2× Seda Fina, 4× Cuero de piel de draco de hielo, 1× Plantilla para armadura * | 16 | 29 | 68 | 348 |
+| Ropa de cuero de dragón de ácido | 2× Seda Fina, 4× Cuero de piel de draco de ácido, 1× Plantilla para armadura * | 18 | 32 | 74 | 384 |
+| Ropa de cuero de dragón de rayo | 2× Seda Fina, 4× Cuero de piel de draco de rayo, 1× Plantilla para armadura * | 20 | 35 | 81 | 420 |
 
 ### Mesa de sastrería - Brazales de cuero
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
-| Brazales de cuero de roedor | 1×-Cuero de piel de roedor, 1× -lantilla para brazales *, 1× S-da Fina | 1 | 10 | 21 | 120 |
-| Brazales de cuero de herbívoro | 1× -uero de piel de herbivoro, 1× P-antilla para brazales *, 1× Se-a Fina | 3 | 13 | 28 | 156 |
-| Brazales de cuero de bestia salvaje | 2×-Cuero de piel de bestia salvaje, 1× -lantilla para brazales *, 1× S-da Fina | 5 | 16 | 34 | 192 |
-| Brazales de cuero de bestia salvaje grande | 2×-Cuero de piel de bestia salvaje grande, 1× -lantilla para brazales *, 1× S-da Fina | 7 | 18 | 41 | 216 |
-| Brazales de cuero de bestia mítica | 3× -uero de piel de bestia mitica, 1× P-antilla para brazales *, 1× Se-a Fina | 9 | 21 | 48 | 252 |
-| Brazales de cuero de bestia mítica gruesa | 3× -uero de piel de bestia mitica gruesa, 1× P-antilla para brazales *, 1× Se-a Fina | 12 | 24 | 54 | 288 |
-| Brazales de cuero de dragón de fuego | 4× -uero de piel de draco de fuego, 1× P-antilla para brazales *, 1× Se-a Fina | 14 | 27 | 61 | 324 |
-| Brazales de cuero de dragón de hielo | 4× -uero de piel de draco de hielo, 1× P-antilla para brazales *, 1× Se-a Fina | 16 | 29 | 68 | 348 |
-| Brazales de cuero de dragón de ácido | 4× C-ero de piel de draco de acido, 1× Pl-ntilla para brazales *, 1× Sed- Fina | 18 | 32 | 74 | 384 |
-| Brazales de cuero de dragón de rayo | 4× -uero de piel de draco de rayo, 1× P-antilla para brazales *, 1× Se-a Fina | 20 | 35 | 81 | 420 |
+| Brazales de cuero de roedor | 1× Cuero de piel de roedor, 1× Plantilla para brazales *, 1× Seda Fina | 1 | 10 | 21 | 120 |
+| Brazales de cuero de herbívoro | 1× Cuero de piel de herbívoro, 1× Plantilla para brazales *, 1× Seda Fina | 3 | 13 | 28 | 156 |
+| Brazales de cuero de bestia salvaje | 2× Cuero de piel de bestia salvaje, 1× Plantilla para brazales *, 1× Seda Fina | 5 | 16 | 34 | 192 |
+| Brazales de cuero de bestia salvaje grande | 2× Cuero de piel de bestia salvaje grande, 1× Plantilla para brazales *, 1× Seda Fina | 7 | 18 | 41 | 216 |
+| Brazales de cuero de bestia mítica | 3× Cuero de piel de bestia mítica, 1× Plantilla para brazales *, 1× Seda Fina | 9 | 21 | 48 | 252 |
+| Brazales de cuero de bestia mítica gruesa | 3× Cuero de piel de bestia mítica gruesa, 1× Plantilla para brazales *, 1× Seda Fina | 12 | 24 | 54 | 288 |
+| Brazales de cuero de dragón de fuego | 4× Cuero de piel de draco de fuego, 1× Plantilla para brazales *, 1× Seda Fina | 14 | 27 | 61 | 324 |
+| Brazales de cuero de dragón de hielo | 4× Cuero de piel de draco de hielo, 1× Plantilla para brazales *, 1× Seda Fina | 16 | 29 | 68 | 348 |
+| Brazales de cuero de dragón de ácido | 4× Cuero de piel de draco de ácido, 1× Plantilla para brazales *, 1× Seda Fina | 18 | 32 | 74 | 384 |
+| Brazales de cuero de dragón de rayo | 4× Cuero de piel de draco de rayo, 1× Plantilla para brazales *, 1× Seda Fina | 20 | 35 | 81 | 420 |
 
 ### Mesa de sastrería - Capa
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
-| Capa de piel de roedor | 1×-Cuero de piel de roedor, 1× -lantilla para capa *, 2× S-da Fina | 1 | 10 | 21 | 120 |
-| Capa de piel de herbívoro | 1× -uero de piel de herbivoro, 1× P-antilla para capa *, 2× Se-a Fina | 3 | 13 | 28 | 156 |
-| Capa de piel de bestia salvaje | 2×-Cuero de piel de bestia salvaje, 1× -lantilla para capa *, 2× S-da Fina | 5 | 16 | 34 | 192 |
-| Capa de piel de bestia salvaje grande | 2×-Cuero de piel de bestia salvaje grande, 1× -lantilla para capa *, 2× S-da Fina | 7 | 18 | 41 | 216 |
-| Capa de piel de bestia mítica | 3× -uero de piel de bestia mitica, 1× P-antilla para capa *, 2× Se-a Fina | 9 | 21 | 48 | 252 |
-| Capa de piel de bestia mítica gruesa | 3× -uero de piel de bestia mitica gruesa, 1× P-antilla para capa *, 2× Se-a Fina | 12 | 24 | 54 | 288 |
-| Capa de piel de dragón de fuego | 4× -uero de piel de draco de fuego, 1× P-antilla para capa *, 2× Se-a Fina | 14 | 27 | 61 | 324 |
-| Capa de piel de dragón de hielo | 4× -uero de piel de draco de hielo, 1× P-antilla para capa *, 2× Se-a Fina | 16 | 29 | 68 | 348 |
-| Capa de piel de dragón de ácido | 4× C-ero de piel de draco de acido, 1× Pl-ntilla para capa *, 2× Sed- Fina | 18 | 32 | 74 | 384 |
-| Capa de piel de dragón de rayo | 4× -uero de piel de draco de rayo, 1× P-antilla para capa *, 2× Se-a Fina | 20 | 35 | 81 | 420 |
+| Capa de piel de roedor | 1× Cuero de piel de roedor, 1× Plantilla para capa *, 2× Seda Fina | 1 | 10 | 21 | 120 |
+| Capa de piel de herbívoro | 1× Cuero de piel de herbívoro, 1× Plantilla para capa *, 2× Seda Fina | 3 | 13 | 28 | 156 |
+| Capa de piel de bestia salvaje | 2× Cuero de piel de bestia salvaje, 1× Plantilla para capa *, 2× Seda Fina | 5 | 16 | 34 | 192 |
+| Capa de piel de bestia salvaje grande | 2× Cuero de piel de bestia salvaje grande, 1× Plantilla para capa *, 2× Seda Fina | 7 | 18 | 41 | 216 |
+| Capa de piel de bestia mítica | 3× Cuero de piel de bestia mítica, 1× Plantilla para capa *, 2× Seda Fina | 9 | 21 | 48 | 252 |
+| Capa de piel de bestia mítica gruesa | 3× Cuero de piel de bestia mítica gruesa, 1× Plantilla para capa *, 2× Seda Fina | 12 | 24 | 54 | 288 |
+| Capa de piel de dragón de fuego | 4× Cuero de piel de draco de fuego, 1× Plantilla para capa *, 2× Seda Fina | 14 | 27 | 61 | 324 |
+| Capa de piel de dragón de hielo | 4× Cuero de piel de draco de hielo, 1× Plantilla para capa *, 2× Seda Fina | 16 | 29 | 68 | 348 |
+| Capa de piel de dragón de ácido | 4× Cuero de piel de draco de ácido, 1× Plantilla para capa *, 2× Seda Fina | 18 | 32 | 74 | 384 |
+| Capa de piel de dragón de rayo | 4× Cuero de piel de draco de rayo, 1× Plantilla para capa *, 2× Seda Fina | 20 | 35 | 81 | 420 |
