@@ -12,10 +12,149 @@ Cuando una receta incluye una botella marcada con `*`, la botella se conserva
 si la tirada falla y se consume si acierta. La alquimia tiene progreso propio,
 pero no ocupa una de las plazas limitadas de oficio.
 
+## Efectos que hay que probar
+
+No basta con fabricar estos consumibles: hay que usarlos y comprobar el
+resultado. Las duraciones de la tabla se expresan en turnos de juego. Si una
+poción lanza un conjuro, se indica también el nivel de lanzador configurado.
+
+**Agua Pura, Raíces Comestibles, Galleta Mágica y Zumo Mágico no activan ningún
+efecto de poción.** En esos cuatro casos, que no aparezca un efecto adicional es
+lo previsto.
+
+### Pociones
+
+| Poción | Efecto que hay que comprobar |
+|---|---|
+| Brumosa | 20 % de ocultación contra ataques a distancia durante 8 turnos. |
+| Férrea | +4 a Fortaleza contra venenos durante 8 turnos. |
+| Descorazonadora | Perdición durante 8 turnos. |
+| Mística | Sueño durante 4 turnos. |
+| Radiante | Luz blanca durante 8 turnos. |
+| Refrescante | Cura 1d8 + 10 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
+| de Aislamiento | Resistencia 10 al ácido, frío, fuego, electricidad y sónico, hasta absorber 20 puntos de cada tipo, durante 8 turnos. |
+| Acústica | +14 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
+| de Perseverancia | +1 a todas las salvaciones durante 8 turnos. |
+| Turbia | Aplica el veneno Niebla del caos. |
+| Desconcertante | Aplica el veneno Musgo del Yo. |
+| Mohosa | Aplica el veneno Polvo de Ungol. |
+| Brillante | Elimina aturdimiento, confusión, hechizo, sueño y pasmo; causa 1 punto de daño negativo por estado eliminado y da inmunidad a conjuros mentales durante 4 turnos. |
+| Rojiza | Cura 1d8 + 10 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
+| Insconsistente | Aplica veneno de araña mediana. |
+| Viscosa | Aplica Raíz de terinav. |
+| Grumosa | Aplica Residuo de hoja de cativera. |
+| Reconfortante | Elimina todas las enfermedades. |
+| Blanquecina | Sólo sobre muertos vivientes: +3 de armadura natural durante 8 turnos. |
+| Opaca | Ceguera y sordera durante 4 turnos. |
+| Furiosa | Lanza Frenesí de sangre con nivel de lanzador 40. |
+| de Soporte | +1 al ataque, +1 a las salvaciones contra miedo y 1d8 puntos de golpe temporales durante 8 turnos. |
+| Densa | Lentitud durante 4 turnos. |
+| de Lentitud | Reduce la Inteligencia en 2d4 durante 4 turnos. |
+| Purificadora | Elimina todos los venenos activos. |
+| de Atracción | Lanza Esplendor del águila con nivel de lanzador 3. |
+| de Intuición | Lanza Sabiduría del búho con nivel de lanzador 3. |
+| de Deducción | Lanza Astucia del zorro con nivel de lanzador 3. |
+| Agitada | Aumenta la velocidad de movimiento durante 4 turnos. La intensidad exacta está pendiente de validación. |
+| Sensorial | Elimina ceguera y sordera. |
+| de Dureza | Lanza Resistencia del oso con nivel de lanzador 3. |
+| de Robustez | Lanza Fuerza de toro con nivel de lanzador 3. |
+| de Agilidad | Lanza Gracia felina con nivel de lanzador 3. |
+| de Protección | +3 de CA por desvío durante 8 turnos. |
+| Curativa | Cura 3d8 + 15 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
+| Borrosa | Reducción de daño 5/+1, absorción de conjuros de nivel 1 y 10 % de ocultación durante 8 turnos. |
+| Omniosa | Maldición sobrenatural permanente: -2 a todas las características. |
+| Nocturna | Ultravisión durante 8 turnos. |
+| Reparadora | Regenera 5 puntos de golpe cada 6 segundos durante 4 turnos. |
+| Carmesí | Cura 3d8 + 15 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
+| Nudosa | +3 de armadura natural durante 8 turnos. |
+| Repulsiva | Aplica la enfermedad Huevos de slaad rojo. |
+| Obtusa | Aplica la enfermedad Larvas excavadoras. |
+| Atontadora | Aplica la enfermedad Larvas excavadoras, igual que la Obtusa; esta duplicidad está pendiente de revisión. |
+| de Barrera | +4 de CA por desvío e inmunidad a Proyectil mágico durante 8 turnos. |
+| Bendita | Elimina todas las maldiciones. |
+| Agarrotadora | Aplica Veneno de avispa gigante. |
+| Debilitante | Aplica Polvo de liche. |
+| de Alivio | Elimina reducciones de característica, CA, ataque, daño, inmunidad al daño, salvaciones, resistencia a conjuros y habilidades. |
+| de Desvío | +1 de CA por armadura, desvío, esquiva y armadura natural durante 8 turnos. |
+| Transparente | Invisibilidad durante 4 turnos. |
+| de Absorción | Resistencia a conjuros 20 durante 8 turnos. |
+| Consciente | +7 a Avistar y +7 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
+| Evolutiva | Transforma al azar en araña gigante, trol, mole sombría, pixie, zombi o pollo durante 8 turnos. |
+| Polvorienta | Reducción de daño 10/+5 hasta absorber 70 puntos durante 8 turnos. |
+| Resplandeciente | Ver invisibilidad durante 4 turnos. |
+| Disipadora | Resistencia 30 al ácido, frío, fuego, electricidad y sónico, hasta absorber 40 puntos de cada tipo, durante 8 turnos. |
+| de Verdad | Ver invisibilidad, ultravisión, inmunidad a Asesino fantasmal y Némesis inexorable, y +7 a Avistar durante 4 turnos. |
+| Translúcida | 50 % de ocultación durante 4 turnos. |
+| Negra | Contra criaturas buenas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
+| Blanca | Contra criaturas malignas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
+| Tenaz | Elimina y da inmunidad a parálisis, enmarañamiento, lentitud y reducción de movimiento durante 8 turnos. |
+| Oscura | Quien golpee al personaje recibe 1 + 1d4 de daño mágico durante 4 turnos. |
+| de Poder | Lanza Poder divino con nivel de lanzador 40. |
+| Vital | Inmunidad a efectos de muerte durante 8 turnos. |
+| Corrosiva | Quien golpee al personaje recibe 18 + 1d6 de daño ácido durante 4 turnos. |
+| Volátil | +1 de CA por esquiva, +1 a Reflejos, +1 al ataque, un ataque adicional y +50 % de movimiento durante 4 turnos. |
+| de Guerra | +1 al ataque y +1 de daño mágico durante 8 turnos. |
+| Calorífica | Quien golpee al personaje recibe 7 + 1d6 de daño de fuego; además da 50 % de inmunidad al frío y al fuego durante 4 turnos. |
+| de Antimagia | +8 a todas las salvaciones contra conjuros durante 8 turnos. |
+| de Descenso | Sólo si el personaje está maldito: elimina la maldición y lo transforma en caballero de la perdición durante 8 turnos. |
+| de Ascenso | Sólo si el personaje está ciego o sordo: elimina esos estados y lo transforma en vengador celestial durante 8 turnos. |
+| de Furia | +5 al ataque, +5 a Fortaleza, dos ataques adicionales, 11d6 puntos de golpe temporales y transformación en caballero de la perdición durante 8 turnos. |
+| de Fuego | Transforma en elemental de fuego enorme durante 8 turnos. |
+| de Tierra | Transforma en elemental de tierra enorme durante 8 turnos. |
+| de Aire | Transforma en elemental de aire enorme durante 8 turnos. |
+| de Agua | Transforma en elemental de agua enorme durante 8 turnos. |
+| Aullante | Quien golpee al personaje recibe 5 + 1d6 de daño sónico durante 4 turnos. |
+| de Supervivencia | 100 % de inmunidad al daño negativo e inmunidad a niveles negativos y reducciones de característica durante 8 turnos. |
+
+### Venenos
+
+La forma de uso también forma parte de la prueba:
+
+- **Herida:** aplícalo a un arma que no sea contundente y golpea con ella. El
+  veneno del arma dura tres horas.
+- **Contacto:** úsalo sobre una criatura, puerta o mobiliario.
+- **Ingestión:** úsalo sobre una poción o bebida y haz que alguien la consuma.
+- **Inhalación:** lánzalo a una ubicación y comprueba la nube durante sus cinco
+  asaltos.
+
+La salvación indica la dificultad que debe superar la víctima. Manejo es la
+dificultad para aplicar el veneno sin la dote correspondiente. Los efectos
+primario y secundario son la referencia de diseño que hay que validar en juego.
+
+| Veneno | Uso | Salvación | Manejo | Efecto primario | Efecto secundario |
+|---|---|---:|---:|---|---|
+| Seta Listada | Ingestión | 11 | 9 | 1 SAB | 2d6 SAB |
+| Veneno de ciempiés pequeño | Herida | 11 | 9 | 1d2 DES | 1d2 DES |
+| Veneno de víbora negra | Herida | 12 | 10 | Ninguno | 1d6 FUE |
+| Raíz de Sanguinaria | Herida | 12 | 10 | 1d6 SAB | 1d4 SAB |
+| Vomicalia | Contacto | 13 | 10 | Ninguno | 3d6 CON |
+| Aceite de sangreverde | Herida | 13 | 10 | 1 CON | Inconsciencia |
+| Arsénico | Ingestión | 13 | 10 | 1 CON | 2d8 CON |
+| Relinchos Azules | Herida | 14 | 11 | 1 CON | Inconsciencia |
+| Veneno de Araña | Herida | 14 | 11 | 1d4 INT | 2d6 INT |
+| Musgo del Yo | Ingestión | 14 | 11 | 1d4 INT | 2d6 INT |
+| Aceite de gárrala | Ingestión | 15 | 12 | Ninguno | Inconsciencia |
+| Polvo de Ungol | Inhalación | 15 | 12 | 1 CAR | 1d6 CAR |
+| Niebla del caos | Inhalación | 15 | 12 | 1d4 SAB | 2d6 SAB |
+| Pasta de raíz de viraguia | Contacto | 16 | 13 | 1 DES | 2d4 DES |
+| Raiz de terinav | Contacto | 16 | 13 | 1d6 DES | 2d6 DES |
+| Residuo de hoja de cativera | Contacto | 16 | 13 | 2d12 PG | 1d6 CON |
+| Veneno de draco | Herida | 17 | 14 | 2d6 CON | 2d6 CON |
+| Polvo de Liche | Ingestión | 17 | 14 | 2d6 FUE | 1d6 FUE |
+| Esencia de sombra | Herida | 17 | 14 | 1 FUE | 2d6 FUE |
+| Veneno de avispa gigante | Herida | 18 | 14 | 1d6 DES | 1d6 DES |
+| Veneno de escorpión | Herida | 18 | 14 | 1d6 FUE | 1d6 FUE |
+| Pólvoras de asaltante oscuro | Ingestión | 18 | 14 | 2d6 CON | 2d6 CON |
+| Efluvios somarreros | Inhalación | 18 | 14 | 1 CON | 3d6 CON |
+| Hoja mortal | Herida | 20 | 16 | 1d6 CON | 2d6 CON |
+| Extracto de loto negro | Contacto | 20 | 16 | 3d6 CON | 3d6 CON |
+| Veneno de gusano púrpura | Herida | 24 | 19 | 1d6 FUE | 1d6 FUE |
+| Bilis de dragón | Contacto | 26 | 21 | 3d6 FUE | Ninguno |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Caldero de hierbas - Materiales básicos
 

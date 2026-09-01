@@ -13,10 +13,34 @@ consumen al fabricar la pieza con éxito. Las recetas de armas marcadas con
 `[elige]` abren una selección adicional; primero eliges el metal y después el
 tipo de arma.
 
+## Propiedades por metal
+
+Estas propiedades se aplican al producto final según el metal y el tipo de
+pieza. El cobre no añade propiedades. En las armas y la munición, el tipo de
+daño físico puede adaptarse al arma fabricada.
+
+| Metal | Armas | Armaduras | Escudos | Cascos | Munición |
+|---|---|---|---|---|---|
+| Cobre | — | — | — | — | — |
+| Hierro | Mejora +1; daño físico +2 | Resistencia 10 % al frío | Resistencia 10 % al frío | Resistencia 10 % al frío | 1d4 de daño físico |
+| Acero | Mejora +2; daño físico +2 | CA +3 | CA +3 | CA +3 | Daño físico +4 |
+| Plata | Mejora +5 contra malignos; 1d4 radiante contra malignos | CA +4 contra malignos; resistencia 10 % a la electricidad | CA +4 contra malignos; resistencia 10 % a la electricidad | CA +4 contra malignos; resistencia 10 % a la electricidad | 1d6 radiante contra malignos |
+| Hierrofrío | Mejora +5 contra fatas; 2d6 mágico contra fatas | CA +5 contra fatas; resistencia 10 % al frío | CA +5 contra fatas; resistencia 10 % al frío | CA +5 contra fatas; resistencia 10 % al frío | 1d10 de fuerza contra fatas |
+| Oro | Mejora +5 contra muertos vivientes; 1d8 de ácido contra muertos vivientes | CA +3; resistencia 10 % al ácido | CA +3; resistencia 10 % al ácido | CA +3; resistencia 10 % al ácido | 1d10 de ácido contra muertos vivientes |
+| Platino | Mejora +3; 1d6 sónico | CA +3; resistencia 10 % al daño sónico | CA +3; resistencia 10 % al daño sónico | CA +3; resistencia 10 % al daño sónico | 1d6 sónico; Silencio CD 14 |
+| Hierro enardecido | Mejora +3; 1d6 de fuego | CA +3; resistencia 10 % al fuego | CA +3; resistencia 10 % al fuego | CA +3; resistencia 10 % al fuego | 1d10 de fuego |
+| Aceroscuro | Mejora +5; 1d4 de fuerza | CA +4; resistencia 20 % a la electricidad | CA +4; resistencia 20 % a la electricidad | CA +4; resistencia 20 % a la electricidad | 1d8 de fuerza |
+| Dlarun | Mejora +5; 1d6 de frío | CA +4; resistencia 20 % al frío | CA +4; resistencia 20 % al frío | CA +4; resistencia 20 % al frío | 1d10 de frío |
+| Hizagkuur | Mejora +5; 1d6 de electricidad | CA +4; resistencia 20 % a la fuerza | CA +4; resistencia 20 % a la fuerza | CA +4; resistencia 20 % a la fuerza | 1d10 de electricidad |
+| Arandur | Mejora +5; Afilada | CA +4; resistencia 10 % al daño contundente | CA +4; resistencia 10 % al daño perforante | CA +4; resistencia 10 % al daño cortante | 1d8 físico; Aturdir CD 14 |
+| Metal vivo | Mejora +5; regeneración vampírica +5 | CA +4 o +5 según la pieza; regeneración 1 | CA +4 o +5 según la pieza; regeneración 1 | CA +4 o +5 según la pieza; regeneración 1 | 1d10 físico; regeneración vampírica 5 |
+| Mithril | Mejora +5; 1d6 de fuerza | CA +4 o +5 según la pieza; -30 % al fallo de conjuro | CA +4 o +5 según la pieza; -25 % al fallo de conjuro | CA +4 o +5 según la pieza; -20 % al fallo de conjuro | 1d6 de fuerza; Aturdir CD 14 |
+| Adamantita | Mejora +5; 1d10 de daño físico opuesto | CA +4 o +5 según la pieza; resistencia 20 % al daño cortante | CA +4 o +5 según la pieza; resistencia 20 % al daño contundente | CA +4 o +5 según la pieza; resistencia 20 % al daño perforante | 1d10 físico; Aturdir CD 14 |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Forja - General
 
@@ -219,6 +243,11 @@ Las marcas de las tablas se explican en
 ## Variantes de armas
 
 Las recetas de armas del Yunque permiten elegir entre estos productos:
+
+Compara cada arma con la columna de su metal en la tabla de propiedades de esta
+guía. Una daga de acero y un martillo de acero deben compartir las propiedades
+del acero. Sólo puede variar el daño físico complementario que corresponda al
+tipo de arma.
 
 Espada larga, Daga, Daga de asesino, Daga de hechicería, Espada corta, Espada
 bastarda, Espadon, Espada de doble hoja, Espada maug, Cimitarra, Cimitarra

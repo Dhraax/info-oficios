@@ -12,10 +12,25 @@
 Las plantillas aparecen marcadas con `*`: sobreviven a una tirada fallida y se
 consumen al fabricar la pieza con éxito.
 
+## Propiedades por piel
+
+| Piel | Armaduras | Cinturones | Botas | Guantes |
+|---|---|---|---|---|
+| Roedor | Resistencia 10 % al daño cortante | Resistencia 10 % al daño contundente | Resistencia 10 % al daño contundente | 1d4 perforante |
+| Herbívoro | CA +2; resistencia 10 % al daño perforante | CA +2; resistencia 10 % al daño contundente | CA +2; resistencia 10 % al daño contundente | 1d4 cortante |
+| Bestia salvaje | Resistencia 20 % al frío | CA +3 | CA +3 | Mejora +3; Afilada |
+| Bestia salvaje grande | CA +3; resistencia 10 % al daño perforante | CA +3; resistencia 10 % al daño contundente | CA +3; resistencia 10 % al daño contundente | 1d4 mágico |
+| Bestia mítica | CA +4; resistencia 10 % al fuego | Resistencia 20 % al fuego | CA +4; resistencia 10 % a la electricidad | Mejora +5; Afilada |
+| Bestia mítica gruesa | CA +4; resistencia 20 % al daño perforante | CA +4; resistencia 20 % al daño contundente | CA +4; resistencia 20 % al daño contundente | Mejora +5; 1d4 psíquico |
+| Dragón de fuego | CA +5; resistencia 20 % al fuego | CA +5; resistencia 20 % al fuego | CA +5; resistencia 20 % al fuego | Mejora +5; 1d10 de fuego |
+| Dragón de hielo | CA +5; resistencia 20 % al frío | CA +5; resistencia 20 % al frío | CA +5; resistencia 20 % al frío | Mejora +5; 1d10 de frío |
+| Dragón de ácido | CA +5; resistencia 20 % al ácido | CA +5; resistencia 20 % al ácido | CA +5; resistencia 20 % al ácido | Mejora +5; 1d10 de ácido |
+| Dragón de rayo | CA +5; resistencia 20 % a la electricidad | CA +5; resistencia 20 % a la electricidad | CA +5; resistencia 20 % a la electricidad | Mejora +5; 1d10 de electricidad |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Tina de curtido - Pieles pequeñas
 

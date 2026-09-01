@@ -15,10 +15,47 @@ al acertar. La montura no aporta propiedades a la pieza terminada; las
 propiedades proceden de la gema. Una joya ya engarzada no puede reutilizarse
 como componente de otra receta.
 
+## Propiedades por gema
+
+La gema determina las propiedades de la joya terminada. Cuando una gema indica
+dos espacios de conjuro, ambos son del mismo nivel. Piedra pícara es la única
+que concede un espacio de dos niveles distintos.
+
+| Gema | Propiedades |
+|---|---|
+| Corvidar | Inmunidad 20 % al ácido |
+| Cuarzo hialino | Salvación +3 contra frío |
+| Jade de tumba | Dos espacios de conjuro de bardo de nivel 2 |
+| Lágrima roja | Dos espacios de conjuro de druida de nivel 4 |
+| Obsidiana | Salvación +3 contra ácido |
+| Piedra pícara | Un espacio de conjuro de bardo de nivel 3 y otro de nivel 4 |
+| Topacio | Salvación +3 contra fuego |
+| Ópalo común | Dos espacios de conjuro de hechicero de nivel 4 |
+| Ópalo de agua | CA +3 |
+| Ópalo de fuego | Inmunidad 20 % al fuego |
+| Amatista | Salvación +3 contra electricidad |
+| Azabache | Salvación +3 contra energía positiva |
+| Beljuril | Inmunidad 20 % a la electricidad |
+| Diamante | CA +4 |
+| Ópalo negro | Dos espacios de conjuro de clérigo de nivel 4 |
+| Orblen | Dos espacios de conjuro de mago de nivel 4 |
+| Orlo | Inmunidad 20 % al frío |
+| Zafiro | Resistencia a conjuros 18 |
+| Zendalur | Salvación +3 contra muerte |
+| Amarazha | Dos espacios de conjuro de mago de nivel 6 |
+| Barra lunar | Salvación +3 contra efectos enajenadores |
+| Esmeralda | Dos espacios de conjuro de hechicero de nivel 6 |
+| Jacinto | Dos espacios de conjuro de druida de nivel 6 |
+| Lágrima del rey | Regeneración 1 |
+| Rubí | Inmunidad 20 % al daño cortante |
+| Rubí estrella | Salvaciones universales +2 |
+| Zafiro estrella | CA +5 |
+| Zafiro negro | Dos espacios de conjuro de clérigo de nivel 6 |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Mesa de joyero - Aros y cadenas
 

@@ -14,10 +14,27 @@ Las recetas marcadas con `[elige]` no fijan un único resultado. Después de
 escoger la receta, el menú pide seleccionar el tipo de arma; la madera elegida
 determina las propiedades del producto.
 
+Compara cada arma con la columna de su madera en la tabla de propiedades de esta
+guía. Dos armas de la misma madera deben compartir sus propiedades. Sólo puede
+variar el daño físico complementario que corresponda al tipo de arma.
+
+## Propiedades por madera
+
+| Madera | Arcos | Ballestas | Virotes | Flechas | Clavas | Bastones | Escudos |
+|---|---|---|---|---|---|---|---|
+| Pino | Mejora +1; Reforzado 2; críticos masivos 1d4 | Mejora +1; Reforzado 2; críticos masivos 1d4 | 1d4 contundente | 1d4 contundente | Mejora +1; Afilada | Mejora +1; Afilada | CA +1; -5 % al fallo de conjuro |
+| Cedro | 1d4 cortante; Afilada; críticos masivos 1d4 | 1d4 cortante; Afilada; críticos masivos 1d4 | 1d6 contundente | 1d6 contundente | Mejora +2; Afilada | Mejora +2; Afilada | CA +2; -5 % al fallo de conjuro |
+| Abeto | Ataque +4; Reforzado 3; críticos masivos 1d6 | Ataque +4; Reforzado 3; críticos masivos 1d6 | 1d8 cortante; Ralentizar CD 14 | 1d8 cortante; Ralentizar CD 14 | Mejora +3; Afilada | Mejora +3; Afilada | CA +3; -5 % al fallo de conjuro |
+| Roble | Ataque +4; Afilada; críticos masivos 1d6 | Ataque +4; Afilada; críticos masivos 1d6 | 1d8 contundente; Ralentizar CD 14 | 1d8 contundente; Ralentizar CD 14 | Mejora +3; 1d6 cortante | Mejora +3; 1d6 cortante | CA +3; resistencia 10 % al ácido |
+| Sombralto | Mejora +5; Afilada | Ataque +5; Afilada; críticos masivos 1d8 | — | — | Ataque +5; Afilada | Ataque +5; Afilada | CA +4; inmunidad 5 % al daño contundente |
+| Leñocaso | Mejora +5; Reforzado 4 | Ataque +5; Reforzado 4; 1d6 físico | 1d8 contundente; 1d4 de ácido; Ralentizar CD 16 | 1d8 contundente; 1d4 de ácido; Ralentizar CD 16 | Ataque +5; 1d8 de ácido | Ataque +5; 1d8 de ácido | CA +4; resistencia 20 % al fuego |
+| Zalantar | Mejora +5; críticos masivos 1d10 | Mejora +5; críticos masivos 1d10 | 1d10 cortante; Aturdir CD 16 | 1d10 cortante; Aturdir CD 16 | Mejora +5; Afilada | Mejora +5; Afilada | CA +5; resistencia 20 % al ácido |
+| Maderadique | Mejora +5; 1d10 de daño físico | Mejora +5; 1d10 de daño físico | 1d10 contundente; Aturdir CD 16 | 1d10 contundente; Aturdir CD 16 | Mejora +5; 1d10 de daño físico | Mejora +5; 1d10 de daño físico | CA +5; resistencia 20 % al fuego |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Tabla de serrería - Tablones
 

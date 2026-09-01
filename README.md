@@ -79,12 +79,25 @@ El progreso es independiente para cada oficio. Un personaje puede desarrollar
 dos oficios de fabricación por encima del nivel inicial; Alquimia no ocupa una
 de esas plazas.
 
+## Comprobar las propiedades
+
+Durante la etapa de pruebas, las tablas de cada oficio en esta guía son la
+referencia de las propiedades esperadas. Fabrica una receta y compara la
+descripción completa del objeto con su tabla. El nombre y las propiedades deben
+coincidir, sin que sobre o falte ninguna.
+
+En las armas, las propiedades las determina el material: todas las armas de
+acero, por ejemplo, deben recibir las propiedades asignadas al acero. El tipo
+de arma sólo puede cambiar el daño físico complementario que le corresponda.
+En Alquimia también se comprueban los efectos de todas las pociones y venenos;
+la tabla de referencia está en la [guía de Alquimia](alquimia/README.md).
+
 ## Recetas por oficio
 
-- [Alquimia](oficios/alquimia/README.md)
-- [Arcano](oficios/arcano/README.md)
-- [Carpintería](oficios/carpinteria/README.md)
-- [Herrería](oficios/herreria/README.md)
-- [Joyería](oficios/joyeria/README.md)
-- [Peletería](oficios/peleteria/README.md)
-- [Sastrería](oficios/sastreria/README.md)
+- [Alquimia](alquimia/README.md)
+- [Arcano](arcano/README.md)
+- [Carpintería](carpinteria/README.md)
+- [Herrería](herreria/README.md)
+- [Joyería](joyeria/README.md)
+- [Peletería](peleteria/README.md)
+- [Sastrería](sastreria/README.md)

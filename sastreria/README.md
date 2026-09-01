@@ -14,10 +14,25 @@ Los patrones aparecen marcados con `*`: sobreviven a una tirada fallida y se
 consumen al fabricar la pieza con éxito. Los demás componentes se consumen
 también cuando el intento falla.
 
+## Propiedades por piel
+
+| Piel | Ropas | Capas | Brazales |
+|---|---|---|---|
+| Roedor | Resistencia 10 % al daño cortante | Resistencia 10 % al daño perforante | Resistencia 10 % al daño cortante |
+| Herbívoro | CA +2; resistencia 10 % al daño perforante | CA +2; resistencia 10 % al daño cortante | CA +2; resistencia 10 % al daño cortante |
+| Bestia salvaje | Resistencia 20 % al frío | Resistencia 20 % al frío | Resistencia 20 % al frío |
+| Bestia salvaje grande | CA +3; resistencia 10 % al daño perforante | CA +3; resistencia 10 % al daño cortante | CA +3; resistencia 10 % al daño cortante |
+| Bestia mítica | CA +4; resistencia 10 % al fuego | Resistencia 20 % al ácido | Resistencia 20 % a la electricidad |
+| Bestia mítica gruesa | CA +4; resistencia 20 % al daño perforante | CA +4; resistencia 20 % al daño cortante | CA +4; resistencia 10 % al daño cortante |
+| Dragón de fuego | CA +5; resistencia 20 % al fuego | CA +5; resistencia 20 % al fuego | CA +5; resistencia 20 % al fuego |
+| Dragón de hielo | CA +5; resistencia 20 % al frío | CA +5; resistencia 20 % al frío | CA +5; resistencia 20 % al frío |
+| Dragón de ácido | CA +5; resistencia 20 % al ácido | CA +5; resistencia 20 % al ácido | CA +5; resistencia 20 % al ácido |
+| Dragón de rayo | CA +5; resistencia 20 % a la electricidad | CA +5; resistencia 20 % a la electricidad | CA +5; resistencia 20 % a la electricidad |
+
 ## Recetas
 
 Las marcas de las tablas se explican en
-[Cómo leer una receta](../../README.md#cómo-leer-una-receta).
+[Cómo leer una receta](../README.md#cómo-leer-una-receta).
 
 ### Mesa de sastrería - Ropas
 
