@@ -33,14 +33,27 @@ daño físico puede adaptarse al arma fabricada.
 | Dlarun | Mejora +5; 1d6 de frío | CA +4; resistencia 20 % al frío | CA +4; resistencia 20 % al frío | CA +4; resistencia 20 % al frío | 1d10 de frío |
 | Hizagkuur | Mejora +5; 1d6 de electricidad | CA +4; resistencia 20 % a la fuerza | CA +4; resistencia 20 % a la fuerza | CA +4; resistencia 20 % a la fuerza | 1d10 de electricidad |
 | Arandur | Mejora +5; Afilada | CA +4; resistencia 10 % al daño contundente | CA +4; resistencia 10 % al daño perforante | CA +4; resistencia 10 % al daño cortante | 1d8 físico; Aturdir CD 14 |
-| Metal vivo | Mejora +5; regeneración vampírica +5 | CA +4 o +5 según la pieza; regeneración 1 | CA +4 o +5 según la pieza; regeneración 1 | CA +4 o +5 según la pieza; regeneración 1 | 1d10 físico; regeneración vampírica 5 |
-| Mithril | Mejora +5; 1d6 de fuerza | CA +4 o +5 según la pieza; -30 % al fallo de conjuro | CA +4 o +5 según la pieza; -25 % al fallo de conjuro | CA +4 o +5 según la pieza; -20 % al fallo de conjuro | 1d6 de fuerza; Aturdir CD 14 |
-| Adamantita | Mejora +5; 1d10 de daño físico opuesto | CA +4 o +5 según la pieza; resistencia 20 % al daño cortante | CA +4 o +5 según la pieza; resistencia 20 % al daño contundente | CA +4 o +5 según la pieza; resistencia 20 % al daño perforante | 1d10 físico; Aturdir CD 14 |
+| Metal vivo | Mejora +5; regeneración vampírica +5 | CA +5, o +4 en la receta ligera; regeneración 1 | CA +5, o +4 en la receta ligera; regeneración 1 | CA +5, o +4 en la receta ligera; regeneración 1 | 1d10 físico; regeneración vampírica 5 |
+| Mithril | Mejora +5; 1d6 de fuerza | CA +5, o +4 en la receta ligera; -30 % al fallo de conjuro | CA +5, o +4 en la receta ligera; -25 % al fallo de conjuro | CA +5, o +4 en la receta ligera; resistencia 15 % al daño cortante | 1d6 de fuerza; Aturdir CD 14 |
+| Adamantita | Mejora +5; 1d10 de daño físico opuesto | CA +5, o +4 en la receta ligera; resistencia 20 % al daño cortante | CA +5, o +4 en la receta ligera; resistencia 20 % al daño contundente | CA +5, o +4 en la receta ligera; resistencia 20 % al daño perforante | 1d10 físico; Aturdir CD 14 |
 
 ## Recetas
 
 Las marcas de las tablas se explican en
 [Cómo leer una receta](../README.md#cómo-leer-una-receta).
+
+### Recetas defensivas de metal vivo, mithril y adamantita
+
+Cada pieza defensiva de estos tres metales tiene **dos recetas distintas**:
+
+- La receta estándar no contiene `ligera` o `ligero` en el nombre. Otorga
+  **CA +5**.
+- La receta ligera contiene `ligera` o `ligero` en el nombre. Otorga **CA +4**
+  y consume un lingote menos que la receta estándar.
+
+Ambas conservan la segunda propiedad defensiva del metal. En las tablas de
+cotas, armaduras, escudos, paveses y yelmos, las recetas ligeras aparecen
+separadas de las recetas estándar para que no se confundan.
 
 ### Forja - General
 
@@ -104,6 +117,8 @@ Las marcas de las tablas se explican en
 
 ### Yunque de herrero - Cotas de escamas
 
+#### Recetas estándar
+
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
 | Cota de escamas de cobre | 2× Lingote de cobre, 1× Moldes de cota de escamas * | 1 | 10 | 21 | 120 |
@@ -119,13 +134,20 @@ Las marcas de las tablas se explican en
 | Cota de escamas de hizagkuur | 2× Lingote de hizagkuur, 1× Moldes de cota de escamas * | 15 | 28 | 64 | 336 |
 | Cota de escamas de arandur | 2× Lingote de arandur, 1× Moldes de cota de escamas * | 16 | 30 | 68 | 360 |
 | Cota de escamas de metal vivo | 3× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 31 | 72 | 372 |
-| Cota de escamas ligera de metal vivo | 2× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 31 | 72 | 372 |
 | Cota de escamas de mithril | 3× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 33 | 77 | 396 |
-| Cota de escamas ligera de mithril | 2× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 33 | 77 | 396 |
 | Cota de escamas de adamantita | 3× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Cota de escamas ligera de metal vivo | 2× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 31 | 72 | 372 |
+| Cota de escamas ligera de mithril | 2× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 33 | 77 | 396 |
 | Cota de escamas ligera de adamantita | 2× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 35 | 81 | 420 |
 
 ### Yunque de herrero - Armaduras completas
+
+#### Recetas estándar
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -142,13 +164,20 @@ Las marcas de las tablas se explican en
 | Armadura completa de hizagkuur | 3× Lingote de hizagkuur, 1× Moldes de armadura completa * | 15 | 28 | 64 | 336 |
 | Armadura completa de arandur | 3× Lingote de arandur, 1× Moldes de armadura completa * | 16 | 30 | 68 | 360 |
 | Armadura completa de metal vivo | 4× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 31 | 72 | 372 |
-| Armadura completa ligera de metal vivo | 3× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 31 | 72 | 372 |
 | Armadura completa de mithril | 4× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 33 | 77 | 396 |
-| Armadura completa ligera de mithril | 3× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 33 | 77 | 396 |
 | Armadura completa de adamantita | 4× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Armadura completa ligera de metal vivo | 3× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 31 | 72 | 372 |
+| Armadura completa ligera de mithril | 3× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 33 | 77 | 396 |
 | Armadura completa ligera de adamantita | 3× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 35 | 81 | 420 |
 
 ### Yunque de herrero - Escudos pequeños
+
+#### Recetas estándar
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -165,13 +194,20 @@ Las marcas de las tablas se explican en
 | Escudo pequeño de hizagkuur | 1× Lingote de hizagkuur, 1× Molde de escudo pequeño * | 15 | 28 | 64 | 336 |
 | Escudo pequeño de arandur | 1× Lingote de arandur, 1× Molde de escudo pequeño * | 16 | 30 | 68 | 360 |
 | Escudo pequeño de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 31 | 72 | 372 |
-| Escudo pequeño ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 31 | 72 | 372 |
 | Escudo pequeño de mithril | 2× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 33 | 77 | 396 |
-| Escudo pequeño ligero de mithril | 1× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 33 | 77 | 396 |
 | Escudo pequeño de adamantita | 2× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Escudo pequeño ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 31 | 72 | 372 |
+| Escudo pequeño ligero de mithril | 1× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 33 | 77 | 396 |
 | Escudo pequeño ligero de adamantita | 1× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 35 | 81 | 420 |
 
 ### Yunque de herrero - Escudos grandes
+
+#### Recetas estándar
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -188,13 +224,20 @@ Las marcas de las tablas se explican en
 | Escudo grande de hizagkuur | 2× Lingote de hizagkuur, 1× Molde de escudo grande * | 15 | 28 | 64 | 336 |
 | Escudo grande de arandur | 2× Lingote de arandur, 1× Molde de escudo grande * | 16 | 30 | 68 | 360 |
 | Escudo grande de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 31 | 72 | 372 |
-| Escudo grande ligero de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 31 | 72 | 372 |
 | Escudo grande de mithril | 3× Lingote de mithril, 1× Molde de escudo grande * | 19 | 33 | 77 | 396 |
-| Escudo grande ligero de mithril | 2× Lingote de mithril, 1× Molde de escudo grande * | 19 | 33 | 77 | 396 |
 | Escudo grande de adamantita | 3× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Escudo grande ligero de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 31 | 72 | 372 |
+| Escudo grande ligero de mithril | 2× Lingote de mithril, 1× Molde de escudo grande * | 19 | 33 | 77 | 396 |
 | Escudo grande ligero de adamantita | 2× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 35 | 81 | 420 |
 
 ### Yunque de herrero - Paveses
+
+#### Recetas estándar
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -211,13 +254,20 @@ Las marcas de las tablas se explican en
 | Pavés de hizagkuur | 3× Lingote de hizagkuur, 1× Molde de escudo pavés * | 15 | 28 | 64 | 336 |
 | Pavés de arandur | 3× Lingote de arandur, 1× Molde de escudo pavés * | 16 | 30 | 68 | 360 |
 | Pavés de metal vivo | 4× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 31 | 72 | 372 |
-| Pavés ligero de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 31 | 72 | 372 |
 | Pavés de mithril | 4× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 33 | 77 | 396 |
-| Pavés ligero de mithril | 3× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 33 | 77 | 396 |
 | Pavés de adamantita | 4× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Pavés ligero de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 31 | 72 | 372 |
+| Pavés ligero de mithril | 3× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 33 | 77 | 396 |
 | Pavés ligero de adamantita | 3× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 35 | 81 | 420 |
 
 ### Yunque de herrero - Yelmos
+
+#### Recetas estándar
 
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
@@ -234,10 +284,15 @@ Las marcas de las tablas se explican en
 | Yelmo de hizagkuur | 1× Lingote de hizagkuur, 1× Molde de capacete * | 15 | 28 | 64 | 336 |
 | Yelmo de arandur | 1× Lingote de arandur, 1× Molde de capacete * | 16 | 30 | 68 | 360 |
 | Yelmo de metal vivo | 2× Lingote de metal vivo, 1× Molde de capacete * | 17 | 31 | 72 | 372 |
-| Yelmo ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de capacete * | 17 | 31 | 72 | 372 |
 | Yelmo de mithril | 2× Lingote de mithril, 1× Molde de capacete * | 19 | 33 | 77 | 396 |
-| Yelmo ligero de mithril | 1× Lingote de mithril, 1× Molde de capacete * | 19 | 33 | 77 | 396 |
 | Yelmo de adamantita | 2× Lingote de adamantita, 1× Molde de capacete * | 20 | 35 | 81 | 420 |
+
+#### Recetas ligeras de CA +4
+
+| Receta | Materiales | Nivel | DC | XP | Oro |
+|---|---|---|---|---|---|
+| Yelmo ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de capacete * | 17 | 31 | 72 | 372 |
+| Yelmo ligero de mithril | 1× Lingote de mithril, 1× Molde de capacete * | 19 | 33 | 77 | 396 |
 | Yelmo ligero de adamantita | 1× Lingote de adamantita, 1× Molde de capacete * | 20 | 35 | 81 | 420 |
 
 ## Variantes de armas

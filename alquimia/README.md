@@ -26,85 +26,85 @@ lo previsto.
 
 | Poción | Efecto que hay que comprobar |
 |---|---|
-| Brumosa | 20 % de ocultación contra ataques a distancia durante 8 turnos. |
-| Férrea | +4 a Fortaleza contra venenos durante 8 turnos. |
-| Descorazonadora | Perdición durante 8 turnos. |
-| Mística | Sueño durante 4 turnos. |
-| Radiante | Luz blanca durante 8 turnos. |
-| Refrescante | Cura 1d8 + 10 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
-| de Aislamiento | Resistencia 10 al ácido, frío, fuego, electricidad y sónico, hasta absorber 20 puntos de cada tipo, durante 8 turnos. |
-| Acústica | +14 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
-| de Perseverancia | +1 a todas las salvaciones durante 8 turnos. |
-| Turbia | Aplica el veneno Niebla del caos. |
-| Desconcertante | Aplica el veneno Musgo del Yo. |
-| Mohosa | Aplica el veneno Polvo de Ungol. |
-| Brillante | Elimina aturdimiento, confusión, hechizo, sueño y pasmo; causa 1 punto de daño negativo por estado eliminado y da inmunidad a conjuros mentales durante 4 turnos. |
-| Rojiza | Cura 1d8 + 10 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
-| Insconsistente | Aplica veneno de araña mediana. |
-| Viscosa | Aplica Raíz de terinav. |
-| Grumosa | Aplica Residuo de hoja de cativera. |
-| Reconfortante | Elimina todas las enfermedades. |
-| Blanquecina | Sólo sobre muertos vivientes: +3 de armadura natural durante 8 turnos. |
-| Opaca | Ceguera y sordera durante 4 turnos. |
-| Furiosa | Lanza Frenesí de sangre con nivel de lanzador 40. |
-| de Soporte | +1 al ataque, +1 a las salvaciones contra miedo y 1d8 puntos de golpe temporales durante 8 turnos. |
-| Densa | Lentitud durante 4 turnos. |
-| de Lentitud | Reduce la Inteligencia en 2d4 durante 4 turnos. |
-| Purificadora | Elimina todos los venenos activos. |
-| de Atracción | Lanza Esplendor del águila con nivel de lanzador 3. |
-| de Intuición | Lanza Sabiduría del búho con nivel de lanzador 3. |
-| de Deducción | Lanza Astucia del zorro con nivel de lanzador 3. |
-| Agitada | Aumenta la velocidad de movimiento durante 4 turnos. La intensidad exacta está pendiente de validación. |
-| Sensorial | Elimina ceguera y sordera. |
-| de Dureza | Lanza Resistencia del oso con nivel de lanzador 3. |
-| de Robustez | Lanza Fuerza de toro con nivel de lanzador 3. |
-| de Agilidad | Lanza Gracia felina con nivel de lanzador 3. |
-| de Protección | +3 de CA por desvío durante 8 turnos. |
-| Curativa | Cura 3d8 + 15 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
-| Borrosa | Reducción de daño 5/+1, absorción de conjuros de nivel 1 y 10 % de ocultación durante 8 turnos. |
-| Omniosa | Maldición sobrenatural permanente: -2 a todas las características. |
-| Nocturna | Ultravisión durante 8 turnos. |
-| Reparadora | Regenera 5 puntos de golpe cada 6 segundos durante 4 turnos. |
-| Carmesí | Cura 3d8 + 15 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
-| Nudosa | +3 de armadura natural durante 8 turnos. |
-| Repulsiva | Aplica la enfermedad Huevos de slaad rojo. |
-| Obtusa | Aplica la enfermedad Larvas excavadoras. |
-| Atontadora | Aplica la enfermedad Larvas excavadoras, igual que la Obtusa; esta duplicidad está pendiente de revisión. |
-| de Barrera | +4 de CA por desvío e inmunidad a Proyectil mágico durante 8 turnos. |
-| Bendita | Elimina todas las maldiciones. |
-| Agarrotadora | Aplica Veneno de avispa gigante. |
-| Debilitante | Aplica Polvo de liche. |
-| de Alivio | Elimina reducciones de característica, CA, ataque, daño, inmunidad al daño, salvaciones, resistencia a conjuros y habilidades. |
-| de Desvío | +1 de CA por armadura, desvío, esquiva y armadura natural durante 8 turnos. |
-| Transparente | Invisibilidad durante 4 turnos. |
-| de Absorción | Resistencia a conjuros 20 durante 8 turnos. |
-| Consciente | +7 a Avistar y +7 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
-| Evolutiva | Transforma al azar en araña gigante, trol, mole sombría, pixie, zombi o pollo durante 8 turnos. |
-| Polvorienta | Reducción de daño 10/+5 hasta absorber 70 puntos durante 8 turnos. |
-| Resplandeciente | Ver invisibilidad durante 4 turnos. |
-| Disipadora | Resistencia 30 al ácido, frío, fuego, electricidad y sónico, hasta absorber 40 puntos de cada tipo, durante 8 turnos. |
-| de Verdad | Ver invisibilidad, ultravisión, inmunidad a Asesino fantasmal y Némesis inexorable, y +7 a Avistar durante 4 turnos. |
-| Translúcida | 50 % de ocultación durante 4 turnos. |
-| Negra | Contra criaturas buenas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
-| Blanca | Contra criaturas malignas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
-| Tenaz | Elimina y da inmunidad a parálisis, enmarañamiento, lentitud y reducción de movimiento durante 8 turnos. |
-| Oscura | Quien golpee al personaje recibe 1 + 1d4 de daño mágico durante 4 turnos. |
-| de Poder | Lanza Poder divino con nivel de lanzador 40. |
-| Vital | Inmunidad a efectos de muerte durante 8 turnos. |
-| Corrosiva | Quien golpee al personaje recibe 18 + 1d6 de daño ácido durante 4 turnos. |
-| Volátil | +1 de CA por esquiva, +1 a Reflejos, +1 al ataque, un ataque adicional y +50 % de movimiento durante 4 turnos. |
-| de Guerra | +1 al ataque y +1 de daño mágico durante 8 turnos. |
-| Calorífica | Quien golpee al personaje recibe 7 + 1d6 de daño de fuego; además da 50 % de inmunidad al frío y al fuego durante 4 turnos. |
-| de Antimagia | +8 a todas las salvaciones contra conjuros durante 8 turnos. |
-| de Descenso | Sólo si el personaje está maldito: elimina la maldición y lo transforma en caballero de la perdición durante 8 turnos. |
-| de Ascenso | Sólo si el personaje está ciego o sordo: elimina esos estados y lo transforma en vengador celestial durante 8 turnos. |
-| de Furia | +5 al ataque, +5 a Fortaleza, dos ataques adicionales, 11d6 puntos de golpe temporales y transformación en caballero de la perdición durante 8 turnos. |
-| de Fuego | Transforma en elemental de fuego enorme durante 8 turnos. |
-| de Tierra | Transforma en elemental de tierra enorme durante 8 turnos. |
-| de Aire | Transforma en elemental de aire enorme durante 8 turnos. |
-| de Agua | Transforma en elemental de agua enorme durante 8 turnos. |
-| Aullante | Quien golpee al personaje recibe 5 + 1d6 de daño sónico durante 4 turnos. |
-| de Supervivencia | 100 % de inmunidad al daño negativo e inmunidad a niveles negativos y reducciones de característica durante 8 turnos. |
+| Poción Brumosa | 20 % de ocultación contra ataques a distancia durante 8 turnos. |
+| Poción Férrea | +4 a Fortaleza contra venenos durante 8 turnos. |
+| Poción Descorazonadora | Perdición durante 8 turnos. |
+| Poción Mística | Sueño durante 4 turnos. |
+| Poción Radiante | Luz blanca durante 8 turnos. |
+| Poción Refrescante | Cura 1d8 + 10 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
+| Poción de Aislamiento | Resistencia 10 al ácido, frío, fuego, electricidad y sónico, hasta absorber 20 puntos de cada tipo, durante 8 turnos. |
+| Poción Acústica | +14 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
+| Poción de Perseverancia | +1 a todas las salvaciones durante 8 turnos. |
+| Poción Turbia | Aplica el veneno Niebla del caos. |
+| Poción Desconcertante | Aplica el veneno Musgo del Yo. |
+| Poción Mohosa | Aplica el veneno Polvo de Ungol. |
+| Poción Brillante | Elimina aturdimiento, confusión, hechizo, sueño y pasmo; causa 1 punto de daño negativo por estado eliminado y da inmunidad a conjuros mentales durante 4 turnos. |
+| Poción Rojiza | Cura 1d8 + 10 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
+| Poción Insconsistente | Aplica veneno de araña mediana. |
+| Poción Viscosa | Aplica Raíz de terinav. |
+| Poción Grumosa | Aplica Residuo de hoja de cativera. |
+| Poción Reconfortante | Elimina todas las enfermedades. |
+| Poción Blanquecina | Sólo sobre muertos vivientes: +3 de armadura natural durante 8 turnos. |
+| Poción Opaca | Ceguera y sordera durante 4 turnos. |
+| Poción Furiosa | Lanza Frenesí de sangre con nivel de lanzador 40. |
+| Poción de Soporte | +1 al ataque, +1 a las salvaciones contra miedo y 1d8 puntos de golpe temporales durante 8 turnos. |
+| Poción Densa | Lentitud durante 4 turnos. |
+| Poción de Lentitud | Reduce la Inteligencia en 2d4 durante 4 turnos. |
+| Poción Purificadora | Elimina todos los venenos activos. |
+| Poción de Atracción | Lanza Esplendor del águila con nivel de lanzador 3. |
+| Poción de Intuición | Lanza Sabiduría del búho con nivel de lanzador 3. |
+| Poción de Deducción | Lanza Astucia del zorro con nivel de lanzador 3. |
+| Poción Agitada | Aumenta la velocidad de movimiento durante 4 turnos. La intensidad exacta está pendiente de validación. |
+| Poción Sensorial | Elimina ceguera y sordera. |
+| Poción de Dureza | Lanza Resistencia del oso con nivel de lanzador 3. |
+| Poción de Robustez | Lanza Fuerza de toro con nivel de lanzador 3. |
+| Poción de Agilidad | Lanza Gracia felina con nivel de lanzador 3. |
+| Poción de Protección | +3 de CA por desvío durante 8 turnos. |
+| Poción Curativa | Cura 3d8 + 15 a seres vivos; causa el mismo daño positivo a muertos vivientes. |
+| Poción Borrosa | Reducción de daño 5/+1, absorción de conjuros de nivel 1 y 10 % de ocultación durante 8 turnos. |
+| Poción Omniosa | Maldición sobrenatural permanente: -2 a todas las características. |
+| Poción Nocturna | Ultravisión durante 8 turnos. |
+| Poción Reparadora | Regenera 5 puntos de golpe cada 6 segundos durante 4 turnos. |
+| Poción Carmesí | Cura 3d8 + 15 a muertos vivientes; causa el mismo daño negativo a seres vivos. |
+| Poción Nudosa | +3 de armadura natural durante 8 turnos. |
+| Poción Repulsiva | Aplica la enfermedad Huevos de slaad rojo. |
+| Poción Obtusa | Aplica la enfermedad Larvas excavadoras. |
+| Poción Atontadora | Aplica la enfermedad Larvas excavadoras, igual que la Obtusa; esta duplicidad está pendiente de revisión. |
+| Poción de Barrera | +4 de CA por desvío e inmunidad a Proyectil mágico durante 8 turnos. |
+| Poción Bendita | Elimina todas las maldiciones. |
+| Poción Agarrotadora | Aplica Veneno de avispa gigante. |
+| Poción Debilitante | Aplica Polvo de liche. |
+| Poción de Alivio | Elimina reducciones de característica, CA, ataque, daño, inmunidad al daño, salvaciones, resistencia a conjuros y habilidades. |
+| Poción de Desvío | +1 de CA por armadura, desvío, esquiva y armadura natural durante 8 turnos. |
+| Poción Transparente | Invisibilidad durante 4 turnos. |
+| Poción de Absorción | Resistencia a conjuros 20 durante 8 turnos. |
+| Poción Consciente | +7 a Avistar y +7 a Escuchar durante 4 turnos, sin acumularse con otros bonificadores del mismo tipo. |
+| Poción Evolutiva | Transforma al azar en araña gigante, trol, mole sombría, pixie, zombi o pollo durante 8 turnos. |
+| Poción Polvorienta | Reducción de daño 10/+5 hasta absorber 70 puntos durante 8 turnos. |
+| Poción Resplandeciente | Ver invisibilidad durante 4 turnos. |
+| Poción Disipadora | Resistencia 30 al ácido, frío, fuego, electricidad y sónico, hasta absorber 40 puntos de cada tipo, durante 8 turnos. |
+| Poción de Verdad | Ver invisibilidad, ultravisión, inmunidad a Asesino fantasmal y Némesis inexorable, y +7 a Avistar durante 4 turnos. |
+| Poción Translúcida | 50 % de ocultación durante 4 turnos. |
+| Poción Negra | Contra criaturas buenas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
+| Poción Blanca | Contra criaturas malignas: +2 de CA por desvío, +2 a salvaciones e inmunidad a conjuros mentales durante 8 turnos. |
+| Poción Tenaz | Elimina y da inmunidad a parálisis, enmarañamiento, lentitud y reducción de movimiento durante 8 turnos. |
+| Poción Oscura | Quien golpee al personaje recibe 1 + 1d4 de daño mágico durante 4 turnos. |
+| Poción de Poder | Lanza Poder divino con nivel de lanzador 40. |
+| Poción Vital | Inmunidad a efectos de muerte durante 8 turnos. |
+| Poción Corrosiva | Quien golpee al personaje recibe 18 + 1d6 de daño ácido durante 4 turnos. |
+| Poción Volátil | +1 de CA por esquiva, +1 a Reflejos, +1 al ataque, un ataque adicional y +50 % de movimiento durante 4 turnos. |
+| Poción de Guerra | +1 al ataque y +1 de daño mágico durante 8 turnos. |
+| Poción Calorífica | Quien golpee al personaje recibe 7 + 1d6 de daño de fuego; además da 50 % de inmunidad al frío y al fuego durante 4 turnos. |
+| Poción de Antimagia | +8 a todas las salvaciones contra conjuros durante 8 turnos. |
+| Poción de Descenso | Sólo si el personaje está maldito: elimina la maldición y lo transforma en caballero de la perdición durante 8 turnos. |
+| Poción de Ascenso | Sólo si el personaje está ciego o sordo: elimina esos estados y lo transforma en vengador celestial durante 8 turnos. |
+| Poción de Furia | +5 al ataque, +5 a Fortaleza, dos ataques adicionales, 11d6 puntos de golpe temporales y transformación en caballero de la perdición durante 8 turnos. |
+| Poción de Fuego | Transforma en elemental de fuego enorme durante 8 turnos. |
+| Poción de Tierra | Transforma en elemental de tierra enorme durante 8 turnos. |
+| Poción de Aire | Transforma en elemental de aire enorme durante 8 turnos. |
+| Poción de Agua | Transforma en elemental de agua enorme durante 8 turnos. |
+| Poción Aullante | Quien golpee al personaje recibe 5 + 1d6 de daño sónico durante 4 turnos. |
+| Poción de Supervivencia | 100 % de inmunidad al daño negativo e inmunidad a niveles negativos y reducciones de característica durante 8 turnos. |
 
 ### Venenos
 
