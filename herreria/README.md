@@ -57,10 +57,15 @@ separadas de las recetas estándar para que no se confundan.
 
 ### Forja - General
 
+El acero es el único metal sin veta en el mapa: no se pica, se alea. Una
+pepita de hierro y una de carbón dan una pepita de acero, y a partir de ahí
+se funde como cualquier otro metal.
+
 | Receta | Materiales | Nivel | DC | XP | Oro |
 |---|---|---|---|---|---|
 | Lingote de cobre | 3× Pepita de cobre, 1× Pepita de carbón | 1 | 10 | 6 | 120 |
 | Lingote de hierro | 3× Pepita de hierro, 1× Pepita de carbón | 2 | 12 | 8 | 144 |
+| Pepita de acero | 1× Pepita de hierro, 1× Pepita de carbón | 4 | 14 | 9 | 168 |
 | Lingote de acero | 3× Pepita de acero, 1× Pepita de carbón | 4 | 14 | 9 | 168 |
 | Lingote de plata | 3× Pepita de plata, 1× Pepita de carbón | 5 | 15 | 10 | 180 |
 | Lingote de hierrofrío | 3× Pepita de hierrofrío, 1× Pepita de carbón | 6 | 17 | 11 | 204 |
