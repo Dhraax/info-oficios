@@ -61,7 +61,7 @@ El acero es el único metal sin veta en el mapa: no se pica, se alea. Una
 pepita de hierro y una de carbón dan una pepita de acero, y a partir de ahí
 se funde como cualquier otro metal.
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Lingote de cobre | 3× Pepita de cobre, 1× Pepita de carbón | 1 | 10 | 6 | 120 |
 | Lingote de hierro | 3× Pepita de hierro, 1× Pepita de carbón | 2 | 12 | 8 | 144 |
@@ -76,13 +76,13 @@ se funde como cualquier otro metal.
 | Lingote de dlarun | 3× Pepita de dlarun, 1× Pepita de carbón | 13 | 26 | 18 | 312 |
 | Lingote de hizagkuur | 3× Pepita de hizagkuur, 1× Pepita de carbón | 15 | 28 | 19 | 336 |
 | Lingote de arandur | 3× Pepita de arandur, 1× Pepita de carbón | 16 | 30 | 20 | 360 |
-| Lingote de metal vivo | 3× Pepita de metal vivo, 1× Pepita de carbón | 17 | 31 | 22 | 372 |
-| Lingote de mithril | 3× Pepita de mithril, 1× Pepita de carbón | 19 | 33 | 23 | 396 |
-| Lingote de adamantita | 3× Pepita de adamantita, 1× Pepita de carbón | 20 | 35 | 24 | 420 |
+| Lingote de metal vivo | 3× Pepita de metal vivo, 1× Pepita de carbón | 17 | 28 | 22 | 372 |
+| Lingote de mithril | 3× Pepita de mithril, 1× Pepita de carbón | 19 | 30 | 23 | 396 |
+| Lingote de adamantita | 3× Pepita de adamantita, 1× Pepita de carbón | 20 | 32 | 24 | 420 |
 
 ### Yunque de herrero - Armas
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Arma de cobre [elige] | 1× Lingote de cobre, 1× Molde de Arma * | 1 | 10 | 21 | 120 |
 | Arma de hierro [elige] | 1× Lingote de hierro, 1× Molde de Arma * | 2 | 12 | 25 | 144 |
@@ -96,13 +96,13 @@ se funde como cualquier otro metal.
 | Arma de dlarun [elige] | 1× Lingote de dlarun, 1× Molde de Arma * | 13 | 26 | 60 | 312 |
 | Arma de hizagkuur [elige] | 1× Lingote de hizagkuur, 1× Molde de Arma * | 15 | 28 | 64 | 336 |
 | Arma de arandur [elige] | 1× Lingote de arandur, 1× Molde de Arma * | 16 | 30 | 68 | 360 |
-| Arma de metal vivo [elige] | 2× Lingote de metal vivo, 1× Molde de Arma * | 17 | 31 | 72 | 372 |
-| Arma de mithril [elige] | 2× Lingote de mithril, 1× Molde de Arma * | 19 | 33 | 77 | 396 |
-| Arma de adamantita [elige] | 2× Lingote de adamantita, 1× Molde de Arma * | 20 | 35 | 81 | 420 |
+| Arma de metal vivo [elige] | 2× Lingote de metal vivo, 1× Molde de Arma * | 17 | 28 | 72 | 372 |
+| Arma de mithril [elige] | 2× Lingote de mithril, 1× Molde de Arma * | 19 | 30 | 77 | 396 |
+| Arma de adamantita [elige] | 2× Lingote de adamantita, 1× Molde de Arma * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Munición
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Bala de cobre | 1× Lingote de cobre, 1× Molde de bala * | 1 | 10 | 21 | 120 |
 | Bala de hierro | 1× Lingote de hierro, 1× Molde de bala * | 2 | 12 | 25 | 144 |
@@ -116,15 +116,15 @@ se funde como cualquier otro metal.
 | Bala de dlarun | 1× Lingote de dlarun, 1× Molde de bala * | 13 | 26 | 60 | 312 |
 | Bala de hizagkuur | 1× Lingote de hizagkuur, 1× Molde de bala * | 15 | 28 | 64 | 336 |
 | Bala de arandur | 1× Lingote de arandur, 1× Molde de bala * | 16 | 30 | 68 | 360 |
-| Bala de metal vivo | 2× Lingote de metal vivo, 1× Molde de bala * | 17 | 31 | 72 | 372 |
-| Bala de mithril | 2× Lingote de mithril, 1× Molde de bala * | 19 | 33 | 77 | 396 |
-| Bala de adamantita | 2× Lingote de adamantita, 1× Molde de bala * | 20 | 35 | 81 | 420 |
+| Bala de metal vivo | 2× Lingote de metal vivo, 1× Molde de bala * | 17 | 28 | 72 | 372 |
+| Bala de mithril | 2× Lingote de mithril, 1× Molde de bala * | 19 | 30 | 77 | 396 |
+| Bala de adamantita | 2× Lingote de adamantita, 1× Molde de bala * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Cotas de escamas
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Cota de escamas de cobre | 2× Lingote de cobre, 1× Moldes de cota de escamas * | 1 | 10 | 21 | 120 |
 | Cota de escamas de hierro | 2× Lingote de hierro, 1× Moldes de cota de escamas * | 2 | 12 | 25 | 144 |
@@ -138,23 +138,23 @@ se funde como cualquier otro metal.
 | Cota de escamas de dlarun | 2× Lingote de dlarun, 1× Moldes de cota de escamas * | 13 | 26 | 60 | 312 |
 | Cota de escamas de hizagkuur | 2× Lingote de hizagkuur, 1× Moldes de cota de escamas * | 15 | 28 | 64 | 336 |
 | Cota de escamas de arandur | 2× Lingote de arandur, 1× Moldes de cota de escamas * | 16 | 30 | 68 | 360 |
-| Cota de escamas de metal vivo | 3× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 31 | 72 | 372 |
-| Cota de escamas de mithril | 3× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 33 | 77 | 396 |
-| Cota de escamas de adamantita | 3× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 35 | 81 | 420 |
+| Cota de escamas de metal vivo | 3× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 28 | 72 | 372 |
+| Cota de escamas de mithril | 3× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 30 | 77 | 396 |
+| Cota de escamas de adamantita | 3× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Cota de escamas ligera de metal vivo | 2× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 31 | 72 | 372 |
-| Cota de escamas ligera de mithril | 2× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 33 | 77 | 396 |
-| Cota de escamas ligera de adamantita | 2× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 35 | 81 | 420 |
+| Cota de escamas ligera de metal vivo | 2× Lingote de metal vivo, 1× Moldes de cota de escamas * | 17 | 28 | 72 | 372 |
+| Cota de escamas ligera de mithril | 2× Lingote de mithril, 1× Moldes de cota de escamas * | 19 | 30 | 77 | 396 |
+| Cota de escamas ligera de adamantita | 2× Lingote de adamantita, 1× Moldes de cota de escamas * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Armaduras completas
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Armadura completa de cobre | 3× Lingote de cobre, 1× Moldes de armadura completa * | 1 | 10 | 21 | 120 |
 | Armadura completa de hierro | 3× Lingote de hierro, 1× Moldes de armadura completa * | 2 | 12 | 25 | 144 |
@@ -168,23 +168,23 @@ se funde como cualquier otro metal.
 | Armadura completa de dlarun | 3× Lingote de dlarun, 1× Moldes de armadura completa * | 13 | 26 | 60 | 312 |
 | Armadura completa de hizagkuur | 3× Lingote de hizagkuur, 1× Moldes de armadura completa * | 15 | 28 | 64 | 336 |
 | Armadura completa de arandur | 3× Lingote de arandur, 1× Moldes de armadura completa * | 16 | 30 | 68 | 360 |
-| Armadura completa de metal vivo | 4× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 31 | 72 | 372 |
-| Armadura completa de mithril | 4× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 33 | 77 | 396 |
-| Armadura completa de adamantita | 4× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 35 | 81 | 420 |
+| Armadura completa de metal vivo | 4× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 28 | 72 | 372 |
+| Armadura completa de mithril | 4× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 30 | 77 | 396 |
+| Armadura completa de adamantita | 4× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Armadura completa ligera de metal vivo | 3× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 31 | 72 | 372 |
-| Armadura completa ligera de mithril | 3× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 33 | 77 | 396 |
-| Armadura completa ligera de adamantita | 3× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 35 | 81 | 420 |
+| Armadura completa ligera de metal vivo | 3× Lingote de metal vivo, 1× Moldes de armadura completa * | 17 | 28 | 72 | 372 |
+| Armadura completa ligera de mithril | 3× Lingote de mithril, 1× Moldes de armadura completa * | 19 | 30 | 77 | 396 |
+| Armadura completa ligera de adamantita | 3× Lingote de adamantita, 1× Moldes de armadura completa * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Escudos pequeños
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Escudo pequeno de cobre | 1× Lingote de cobre, 1× Molde de escudo pequeño * | 1 | 10 | 21 | 120 |
 | Escudo pequeño de hierro | 1× Lingote de hierro, 1× Molde de escudo pequeño * | 2 | 12 | 25 | 144 |
@@ -198,23 +198,23 @@ se funde como cualquier otro metal.
 | Escudo pequeño de dlarun | 1× Lingote de dlarun, 1× Molde de escudo pequeño * | 13 | 26 | 60 | 312 |
 | Escudo pequeño de hizagkuur | 1× Lingote de hizagkuur, 1× Molde de escudo pequeño * | 15 | 28 | 64 | 336 |
 | Escudo pequeño de arandur | 1× Lingote de arandur, 1× Molde de escudo pequeño * | 16 | 30 | 68 | 360 |
-| Escudo pequeño de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 31 | 72 | 372 |
-| Escudo pequeño de mithril | 2× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 33 | 77 | 396 |
-| Escudo pequeño de adamantita | 2× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 35 | 81 | 420 |
+| Escudo pequeño de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 28 | 72 | 372 |
+| Escudo pequeño de mithril | 2× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 30 | 77 | 396 |
+| Escudo pequeño de adamantita | 2× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Escudo pequeño ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 31 | 72 | 372 |
-| Escudo pequeño ligero de mithril | 1× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 33 | 77 | 396 |
-| Escudo pequeño ligero de adamantita | 1× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 35 | 81 | 420 |
+| Escudo pequeño ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de escudo pequeño * | 17 | 28 | 72 | 372 |
+| Escudo pequeño ligero de mithril | 1× Lingote de mithril, 1× Molde de escudo pequeño * | 19 | 30 | 77 | 396 |
+| Escudo pequeño ligero de adamantita | 1× Lingote de adamantita, 1× Molde de escudo pequeño * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Escudos grandes
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Escudo grande de cobre | 2× Lingote de cobre, 1× Molde de escudo grande * | 1 | 10 | 21 | 120 |
 | Escudo grande de hierro | 2× Lingote de hierro, 1× Molde de escudo grande * | 2 | 12 | 25 | 144 |
@@ -228,23 +228,23 @@ se funde como cualquier otro metal.
 | Escudo grande de dlarun | 2× Lingote de dlarun, 1× Molde de escudo grande * | 13 | 26 | 60 | 312 |
 | Escudo grande de hizagkuur | 2× Lingote de hizagkuur, 1× Molde de escudo grande * | 15 | 28 | 64 | 336 |
 | Escudo grande de arandur | 2× Lingote de arandur, 1× Molde de escudo grande * | 16 | 30 | 68 | 360 |
-| Escudo grande de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 31 | 72 | 372 |
-| Escudo grande de mithril | 3× Lingote de mithril, 1× Molde de escudo grande * | 19 | 33 | 77 | 396 |
-| Escudo grande de adamantita | 3× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 35 | 81 | 420 |
+| Escudo grande de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 28 | 72 | 372 |
+| Escudo grande de mithril | 3× Lingote de mithril, 1× Molde de escudo grande * | 19 | 30 | 77 | 396 |
+| Escudo grande de adamantita | 3× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Escudo grande ligero de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 31 | 72 | 372 |
-| Escudo grande ligero de mithril | 2× Lingote de mithril, 1× Molde de escudo grande * | 19 | 33 | 77 | 396 |
-| Escudo grande ligero de adamantita | 2× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 35 | 81 | 420 |
+| Escudo grande ligero de metal vivo | 2× Lingote de metal vivo, 1× Molde de escudo grande * | 17 | 28 | 72 | 372 |
+| Escudo grande ligero de mithril | 2× Lingote de mithril, 1× Molde de escudo grande * | 19 | 30 | 77 | 396 |
+| Escudo grande ligero de adamantita | 2× Lingote de adamantita, 1× Molde de escudo grande * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Paveses
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Pavés de cobre | 3× Lingote de cobre, 1× Molde de escudo pavés * | 1 | 10 | 21 | 120 |
 | Pavés de hierro | 3× Lingote de hierro, 1× Molde de escudo pavés * | 2 | 12 | 25 | 144 |
@@ -258,23 +258,23 @@ se funde como cualquier otro metal.
 | Pavés de dlarun | 3× Lingote de dlarun, 1× Molde de escudo pavés * | 13 | 26 | 60 | 312 |
 | Pavés de hizagkuur | 3× Lingote de hizagkuur, 1× Molde de escudo pavés * | 15 | 28 | 64 | 336 |
 | Pavés de arandur | 3× Lingote de arandur, 1× Molde de escudo pavés * | 16 | 30 | 68 | 360 |
-| Pavés de metal vivo | 4× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 31 | 72 | 372 |
-| Pavés de mithril | 4× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 33 | 77 | 396 |
-| Pavés de adamantita | 4× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 35 | 81 | 420 |
+| Pavés de metal vivo | 4× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 28 | 72 | 372 |
+| Pavés de mithril | 4× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 30 | 77 | 396 |
+| Pavés de adamantita | 4× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Pavés ligero de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 31 | 72 | 372 |
-| Pavés ligero de mithril | 3× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 33 | 77 | 396 |
-| Pavés ligero de adamantita | 3× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 35 | 81 | 420 |
+| Pavés ligero de metal vivo | 3× Lingote de metal vivo, 1× Molde de escudo pavés * | 17 | 28 | 72 | 372 |
+| Pavés ligero de mithril | 3× Lingote de mithril, 1× Molde de escudo pavés * | 19 | 30 | 77 | 396 |
+| Pavés ligero de adamantita | 3× Lingote de adamantita, 1× Molde de escudo pavés * | 20 | 32 | 81 | 420 |
 
 ### Yunque de herrero - Yelmos
 
 #### Recetas estándar
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Yelmo de cobre | 1× Lingote de cobre, 1× Molde de capacete * | 1 | 10 | 21 | 120 |
 | Yelmo de hierro | 1× Lingote de hierro, 1× Molde de capacete * | 2 | 12 | 25 | 144 |
@@ -288,17 +288,17 @@ se funde como cualquier otro metal.
 | Yelmo de dlarun | 1× Lingote de dlarun, 1× Molde de capacete * | 13 | 26 | 60 | 312 |
 | Yelmo de hizagkuur | 1× Lingote de hizagkuur, 1× Molde de capacete * | 15 | 28 | 64 | 336 |
 | Yelmo de arandur | 1× Lingote de arandur, 1× Molde de capacete * | 16 | 30 | 68 | 360 |
-| Yelmo de metal vivo | 2× Lingote de metal vivo, 1× Molde de capacete * | 17 | 31 | 72 | 372 |
-| Yelmo de mithril | 2× Lingote de mithril, 1× Molde de capacete * | 19 | 33 | 77 | 396 |
-| Yelmo de adamantita | 2× Lingote de adamantita, 1× Molde de capacete * | 20 | 35 | 81 | 420 |
+| Yelmo de metal vivo | 2× Lingote de metal vivo, 1× Molde de capacete * | 17 | 28 | 72 | 372 |
+| Yelmo de mithril | 2× Lingote de mithril, 1× Molde de capacete * | 19 | 30 | 77 | 396 |
+| Yelmo de adamantita | 2× Lingote de adamantita, 1× Molde de capacete * | 20 | 32 | 81 | 420 |
 
 #### Recetas ligeras de CA +4
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
-| Yelmo ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de capacete * | 17 | 31 | 72 | 372 |
-| Yelmo ligero de mithril | 1× Lingote de mithril, 1× Molde de capacete * | 19 | 33 | 77 | 396 |
-| Yelmo ligero de adamantita | 1× Lingote de adamantita, 1× Molde de capacete * | 20 | 35 | 81 | 420 |
+| Yelmo ligero de metal vivo | 1× Lingote de metal vivo, 1× Molde de capacete * | 17 | 28 | 72 | 372 |
+| Yelmo ligero de mithril | 1× Lingote de mithril, 1× Molde de capacete * | 19 | 30 | 77 | 396 |
+| Yelmo ligero de adamantita | 1× Lingote de adamantita, 1× Molde de capacete * | 20 | 32 | 81 | 420 |
 
 ## Variantes de armas
 

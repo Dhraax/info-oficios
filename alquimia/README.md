@@ -158,7 +158,7 @@ Las marcas de las tablas se explican en
 
 ### Caldero de hierbas - Materiales básicos
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Zumo Acuoso | 3× Baya Acuosa | 1 | 10 | 6 | 120 |
 | Humo Gaseoso | 3× Brisa Susurrante | 4 | 14 | 9 | 168 |
@@ -166,12 +166,12 @@ Las marcas de las tablas se explican en
 | Especia Sulfurosa | 3× Ardor Desértico | 9 | 21 | 14 | 252 |
 | Picada Rocosa | 3× Raíz Pétrea | 12 | 24 | 17 | 288 |
 | Virutas Resplandecientes | 3× Flor Luminosa | 15 | 28 | 19 | 336 |
-| Limo Putrefacto | 3× Seta Nocturna | 17 | 31 | 22 | 372 |
-| Esencia Invisible | 3× Fruto Fantasma | 20 | 35 | 24 | 420 |
+| Limo Putrefacto | 3× Seta Nocturna | 17 | 28 | 22 | 372 |
+| Esencia Invisible | 3× Fruto Fantasma | 20 | 32 | 24 | 420 |
 
 ### Mesa de alquimia - Pociones
 
-| Receta | Materiales | Nivel | DC | XP | Oro |
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Agua Pura | 1× Zumo Acuoso, 1× Botella de poción * | 1 | 10 | 21 | 120 |
 | Raíces Comestibles | 1× Picada Rocosa | 1 | 10 | 22 | 120 |
@@ -255,31 +255,31 @@ Las marcas de las tablas se explican en
 | Poción de Absorción | 1× Esencia Invisible, 1× Virutas Resplandecientes, 1× Pasta Terrosa, 1× Botella de poción * | 15 | 28 | 65 | 336 |
 | Poción Debilitante | 1× Pasta Terrosa, 1× Limo Putrefacto, 1× Picada Rocosa, 1× Botella de poción * | 15 | 28 | 64 | 336 |
 | Poción Disipadora | 2× Pasta Terrosa, 1× Picada Rocosa, 1× Botella de poción * | 15 | 29 | 66 | 348 |
-| Poción Evolutiva | 2× Picada Rocosa, 1× Esencia Invisible, 1× Botella de poción * | 15 | 29 | 67 | 348 |
+| Poción Evolutiva | 2× Picada Rocosa, 1× Esencia Invisible, 1× Botella de poción * | 15 | 26 | 67 | 348 |
 | Poción Transparente | 1× Humo Gaseoso, 1× Esencia Invisible, 1× Limo Putrefacto, 1× Botella de poción * | 15 | 29 | 66 | 348 |
-| Poción Polvorienta | 2× Pasta Terrosa, 1× Especia Sulfurosa, 1× Botella de poción * | 16 | 29 | 67 | 348 |
-| Poción Resplandeciente | 3× Humo Gaseoso, 1× Botella de poción * | 16 | 29 | 68 | 348 |
-| Galleta Mágica | 3× Picada Rocosa | 16 | 30 | 68 | 360 |
-| Poción Blanca | 1× Limo Putrefacto, 1× Zumo Acuoso, 1× Virutas Resplandecientes, 1× Botella de poción * | 16 | 30 | 69 | 360 |
-| Zumo Mágico | 1× Zumo Acuoso, 2× Picada Rocosa, 1× Botella de poción * | 16 | 30 | 69 | 360 |
-| Poción de Verdad | 1× Esencia Invisible, 1× Limo Putrefacto, 1× Humo Gaseoso, 1× Botella de poción * | 17 | 30 | 70 | 360 |
-| Poción Aullante | 1× Humo Gaseoso, 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 17 | 31 | 72 | 372 |
-| Poción de Poder | 1× Pasta Terrosa, 1× Especia Sulfurosa, 1× Picada Rocosa, 1× Botella de poción * | 17 | 31 | 72 | 372 |
-| Poción Negra | 2× Virutas Resplandecientes, 1× Zumo Acuoso, 1× Botella de poción * | 17 | 31 | 71 | 372 |
-| Poción Translúcida | 1× Humo Gaseoso, 1× Especia Sulfurosa, 1× Esencia Invisible, 1× Botella de poción * | 17 | 31 | 71 | 372 |
-| Poción de Supervivencia | 1× Limo Putrefacto, 2× Virutas Resplandecientes, 1× Botella de poción * | 17 | 32 | 73 | 384 |
-| Poción Corrosiva | 2× Especia Sulfurosa, 1× Pasta Terrosa, 1× Botella de poción * | 18 | 32 | 74 | 384 |
-| Poción Oscura | 1× Limo Putrefacto, 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 32 | 73 | 384 |
-| Poción Tenaz | 1× Especia Sulfurosa, 2× Virutas Resplandecientes, 1× Botella de poción * | 18 | 32 | 74 | 384 |
-| Poción Vital | 2× Limo Putrefacto, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 32 | 75 | 384 |
-| Poción Calorífica | 2× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 33 | 76 | 396 |
-| Poción Volátil | 1× Especia Sulfurosa, 1× Humo Gaseoso, 1× Picada Rocosa, 1× Botella de poción * | 18 | 33 | 75 | 396 |
-| Poción de Antimagia | 1× Esencia Invisible, 1× Zumo Acuoso, 1× Virutas Resplandecientes, 1× Botella de poción * | 19 | 33 | 77 | 396 |
-| Poción de Guerra | 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Picada Rocosa, 1× Botella de poción * | 19 | 33 | 77 | 396 |
-| Poción de Agua | 2× Zumo Acuoso, 1× Esencia Invisible, 1× Botella de poción * | 19 | 34 | 79 | 408 |
-| Poción de Ascenso | 2× Virutas Resplandecientes, 1× Esencia Invisible, 1× Botella de poción * | 19 | 34 | 78 | 408 |
-| Poción de Descenso | 2× Limo Putrefacto, 1× Esencia Invisible, 1× Botella de poción * | 19 | 34 | 78 | 408 |
-| Poción de Furia | 1× Especia Sulfurosa, 1× Pasta Terrosa, 1× Esencia Invisible, 1× Botella de poción * | 19 | 34 | 79 | 408 |
-| Poción de Aire | 2× Humo Gaseoso, 1× Esencia Invisible, 1× Botella de poción * | 20 | 35 | 80 | 420 |
-| Poción de Fuego | 2× Especia Sulfurosa, 1× Esencia Invisible, 1× Botella de poción * | 20 | 35 | 80 | 420 |
-| Poción de Tierra | 2× Pasta Terrosa, 1× Esencia Invisible, 1× Botella de poción * | 20 | 35 | 81 | 420 |
+| Poción Polvorienta | 2× Pasta Terrosa, 1× Especia Sulfurosa, 1× Botella de poción * | 16 | 26 | 67 | 348 |
+| Poción Resplandeciente | 3× Humo Gaseoso, 1× Botella de poción * | 16 | 26 | 68 | 348 |
+| Galleta Mágica | 3× Picada Rocosa | 16 | 27 | 68 | 360 |
+| Poción Blanca | 1× Limo Putrefacto, 1× Zumo Acuoso, 1× Virutas Resplandecientes, 1× Botella de poción * | 16 | 27 | 69 | 360 |
+| Zumo Mágico | 1× Zumo Acuoso, 2× Picada Rocosa, 1× Botella de poción * | 16 | 27 | 69 | 360 |
+| Poción de Verdad | 1× Esencia Invisible, 1× Limo Putrefacto, 1× Humo Gaseoso, 1× Botella de poción * | 17 | 27 | 70 | 360 |
+| Poción Aullante | 1× Humo Gaseoso, 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 17 | 28 | 72 | 372 |
+| Poción de Poder | 1× Pasta Terrosa, 1× Especia Sulfurosa, 1× Picada Rocosa, 1× Botella de poción * | 17 | 28 | 72 | 372 |
+| Poción Negra | 2× Virutas Resplandecientes, 1× Zumo Acuoso, 1× Botella de poción * | 17 | 28 | 71 | 372 |
+| Poción Translúcida | 1× Humo Gaseoso, 1× Especia Sulfurosa, 1× Esencia Invisible, 1× Botella de poción * | 17 | 28 | 71 | 372 |
+| Poción de Supervivencia | 1× Limo Putrefacto, 2× Virutas Resplandecientes, 1× Botella de poción * | 17 | 29 | 73 | 384 |
+| Poción Corrosiva | 2× Especia Sulfurosa, 1× Pasta Terrosa, 1× Botella de poción * | 18 | 29 | 74 | 384 |
+| Poción Oscura | 1× Limo Putrefacto, 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 29 | 73 | 384 |
+| Poción Tenaz | 1× Especia Sulfurosa, 2× Virutas Resplandecientes, 1× Botella de poción * | 18 | 29 | 74 | 384 |
+| Poción Vital | 2× Limo Putrefacto, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 29 | 75 | 384 |
+| Poción Calorífica | 2× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Botella de poción * | 18 | 30 | 76 | 396 |
+| Poción Volátil | 1× Especia Sulfurosa, 1× Humo Gaseoso, 1× Picada Rocosa, 1× Botella de poción * | 18 | 30 | 75 | 396 |
+| Poción de Antimagia | 1× Esencia Invisible, 1× Zumo Acuoso, 1× Virutas Resplandecientes, 1× Botella de poción * | 19 | 30 | 77 | 396 |
+| Poción de Guerra | 1× Especia Sulfurosa, 1× Virutas Resplandecientes, 1× Picada Rocosa, 1× Botella de poción * | 19 | 30 | 77 | 396 |
+| Poción de Agua | 2× Zumo Acuoso, 1× Esencia Invisible, 1× Botella de poción * | 19 | 31 | 79 | 408 |
+| Poción de Ascenso | 2× Virutas Resplandecientes, 1× Esencia Invisible, 1× Botella de poción * | 19 | 31 | 78 | 408 |
+| Poción de Descenso | 2× Limo Putrefacto, 1× Esencia Invisible, 1× Botella de poción * | 19 | 31 | 78 | 408 |
+| Poción de Furia | 1× Especia Sulfurosa, 1× Pasta Terrosa, 1× Esencia Invisible, 1× Botella de poción * | 19 | 31 | 79 | 408 |
+| Poción de Aire | 2× Humo Gaseoso, 1× Esencia Invisible, 1× Botella de poción * | 20 | 32 | 80 | 420 |
+| Poción de Fuego | 2× Especia Sulfurosa, 1× Esencia Invisible, 1× Botella de poción * | 20 | 32 | 80 | 420 |
+| Poción de Tierra | 2× Pasta Terrosa, 1× Esencia Invisible, 1× Botella de poción * | 20 | 32 | 81 | 420 |
