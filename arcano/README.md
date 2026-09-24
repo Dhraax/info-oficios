@@ -25,6 +25,9 @@ tirada falla, el objeto queda intacto y se puede volver a intentar. Si acierta,
 recibe la propiedad elegida, queda identificado y se marca como `[Encantado]`.
 Una pieza marcada no admite otro encantamiento.
 
+Si con el encantamiento la pieza pasa de tres propiedades, queda **solo para
+personajes de nivel 17 o más**, como el botín con más de tres propiedades.
+
 ## Cómo leer el catálogo
 
 - **Máximo** es el valor más alto que puede alcanzar la propiedad.

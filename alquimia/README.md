@@ -158,16 +158,19 @@ Las marcas de las tablas se explican en
 
 ### Caldero de hierbas - Materiales básicos
 
+Los ocho materiales básicos se pueden preparar desde el nivel 1: las pociones
+los usan desde los primeros niveles. Lo que los hace escasos es su planta.
+
 | Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
 |---|---|---|---|---|---|
 | Zumo Acuoso | 3× Baya Acuosa | 1 | 10 | 6 | 120 |
-| Humo Gaseoso | 3× Brisa Susurrante | 4 | 14 | 9 | 168 |
-| Pasta Terrosa | 3× Resina Subterránea | 6 | 17 | 11 | 204 |
-| Especia Sulfurosa | 3× Ardor Desértico | 9 | 21 | 14 | 252 |
-| Picada Rocosa | 3× Raíz Pétrea | 12 | 24 | 17 | 288 |
-| Virutas Resplandecientes | 3× Flor Luminosa | 15 | 28 | 19 | 336 |
-| Limo Putrefacto | 3× Seta Nocturna | 17 | 28 | 22 | 372 |
-| Esencia Invisible | 3× Fruto Fantasma | 20 | 32 | 24 | 420 |
+| Humo Gaseoso | 3× Brisa Susurrante | 1 | 10 | 7 | 120 |
+| Pasta Terrosa | 3× Resina Subterránea | 1 | 11 | 7 | 132 |
+| Especia Sulfurosa | 3× Ardor Desértico | 1 | 11 | 7 | 132 |
+| Picada Rocosa | 3× Raíz Pétrea | 1 | 12 | 7 | 144 |
+| Virutas Resplandecientes | 3× Flor Luminosa | 1 | 12 | 8 | 144 |
+| Limo Putrefacto | 3× Seta Nocturna | 1 | 13 | 8 | 156 |
+| Esencia Invisible | 3× Fruto Fantasma | 1 | 13 | 8 | 156 |
 
 ### Mesa de alquimia - Pociones
 
