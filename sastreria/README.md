@@ -4,10 +4,14 @@
 
 Sastrería y Peletería tienen niveles independientes.
 
-1. Equipa una Aguja o Aguja grande.
-2. Lleva en el inventario el Kit de herramientas del Sastre. El kit de
+1. Curte tus propias pieles en el **Curtidero de sastrería**. Tiene las mismas
+   recetas que la Tina de curtido de Peletería, pero la experiencia es de
+   Sastrería, y no requiere herramienta. El cuero es el mismo: sirve para las
+   dos mesas.
+2. Equipa una Aguja o Aguja grande.
+3. Lleva en el inventario el Kit de herramientas del Sastre. El kit de
    Peletería no lo sustituye.
-3. Deposita en la **Mesa de sastrería** el patrón y los demás componentes
+4. Deposita en la **Mesa de sastrería** el patrón y los demás componentes
    indicados por la receta.
 
 Los patrones aparecen marcados con `*`: sobreviven a una tirada fallida y se
@@ -33,6 +37,31 @@ también cuando el intento falla.
 
 Las marcas de las tablas se explican en
 [Cómo leer una receta](../README.md#cómo-leer-una-receta).
+
+### Curtidero de sastrería - Pieles pequeñas
+
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
+|---|---|---|---|---|---|
+| Cuero curtido de roedor | 1× Saco de sal, 1× Tanino, 3× Piel de roedor | 1 | 10 | 6 | 120 |
+| Cuero curtido de herbívoro | 1× Saco de sal, 1× Tanino, 3× Piel de herbívoro | 3 | 13 | 8 | 156 |
+
+### Curtidero de sastrería - Pieles medianas
+
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
+|---|---|---|---|---|---|
+| Cuero curtido de bestia salvaje | 1× Saco de sal, 1× Tanino, 2× Piel de bestia | 5 | 16 | 10 | 192 |
+| Cuero curtido de bestia mítica | 1× Saco de sal, 1× Tanino, 2× Piel de bestia mítica | 9 | 21 | 14 | 252 |
+
+### Curtidero de sastrería - Pieles grandes
+
+| Receta | Materiales | Nivel | DC | XP | Valor al reciclar |
+|---|---|---|---|---|---|
+| Cuero curtido de bestia salvaje grande | 1× Saco de sal, 1× Tanino, 1× Piel de bestia grande | 7 | 18 | 12 | 216 |
+| Cuero curtido de bestia mítica gruesa | 1× Saco de sal, 1× Tanino, 1× Piel de bestia mítica gruesa | 12 | 24 | 16 | 288 |
+| Cuero curtido de dragón de fuego | 1× Saco de sal, 1× Tanino, 1× Piel de draco de fuego | 14 | 24 | 18 | 324 |
+| Cuero curtido de dragón de hielo | 1× Saco de sal, 1× Tanino, 1× Piel de draco de hielo | 16 | 26 | 20 | 348 |
+| Cuero curtido de dragón de ácido | 1× Saco de sal, 1× Tanino, 1× Piel de draco de ácido | 18 | 29 | 22 | 384 |
+| Cuero curtido de dragón de rayo | 1× Saco de sal, 1× Tanino, 1× Piel de draco de rayo | 20 | 32 | 24 | 420 |
 
 ### Mesa de sastrería - Ropas
 
