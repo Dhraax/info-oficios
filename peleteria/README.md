@@ -1,5 +1,25 @@
 ﻿# Peletería
 
+## Desollado
+
+Equipa el Cuchillo de desollar adecuado a tu tamaño y activa su poder sobre
+el cadáver de una criatura que tenga piel aprovechable. Cada activación entrega
+pieles; debes activar de nuevo y esperar diez segundos entre entregas. Un mismo
+cadáver permite como máximo tres entregas, compartidas entre jugadores.
+
+El cadáver conserva su desaparición normal y su loot. Si desaparece antes,
+no podrás seguir desollándolo. No necesitas nivel de oficio ni recibes
+experiencia al desollar. Las cantidades son 1d4 en tier 1 y 2 y 2d4 en tier 3;
+en tier 4, las pieles de dragón, dependen de la criatura. El cuchillo se desgasta con cada entrega y, al romperse, consume
+una unidad del paquete.
+
+Los dragones dan la piel de su color: los rojos, de fuego; los blancos, de
+hielo; los negros, de ácido, y los azules y de bronce, de rayo. Otras criaturas
+dracónicas, como crías, semidragones o wyverns, también dan algo. Cuanto más
+grande y poderosa es la criatura, más pieles da: un gran dragón mucho más que
+una cría. Además, cada dragón suelta una vez unas pocas pieles de otro elemento
+al azar.
+
 ## Uso
 
 1. Usa la **Tina de curtido** para obtener cuero. Es una estación de proceso y

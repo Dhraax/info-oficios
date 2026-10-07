@@ -20,6 +20,10 @@ Alquimia.
 4. Si quieres, escribe un nombre y una descripción para el objeto. Revisa la
    confirmación final antes de intentar el encantamiento.
 
+La extractora acepta solo equipo de botín marcado para extracción y ya
+identificado. El botín gris no proporciona esencias. Los consumibles y los
+objetos sin slots de equipamiento no reciben la marca de extracción.
+
 Las esencias y los cristales se consumen tanto al acertar como al fallar. Si la
 tirada falla, el objeto queda intacto y se puede volver a intentar. Si acierta,
 recibe la propiedad elegida, queda identificado y se marca como `[Encantado]`.

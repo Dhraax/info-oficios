@@ -61,9 +61,14 @@ encima.
 | Tabla de serrería | Kit de herramientas del serrador; Sierra del serrador | inventario |
 | Mesa de joyero | Kit de herramientas de Orfebre | inventario; sólo al tallar gemas |
 | Tina de curtido | ninguna | - |
+| Curtidero de sastrería | ninguna | - |
 
 Las herramientas pueden romperse al comenzar un intento. Si ocurre, el
 intento se cancela antes de consumir componentes.
+
+Para desollar, equipa un **Cuchillo de desollar** en cualquiera de las dos
+manos. La tienda de peletería ofrece el mismo objeto como daga y como espada
+corta para razas grandes; ambas versiones funcionan igual.
 
 ## Tirada, resultado y progreso
 
@@ -116,3 +121,10 @@ la tabla de referencia está en la [guía de Alquimia](alquimia/README.md).
 - [Joyería](joyeria/README.md)
 - [Peletería](peleteria/README.md)
 - [Sastrería](sastreria/README.md)
+
+## Compra de materiales y herramientas
+
+Los materiales, consumibles, plantillas y moldes incluidos en las tiendas se
+compran en paquetes de 10. Todas las herramientas se compran de una en una,
+incluso cuando sólo deben estar en el inventario o sobre la mesa. Las armas,
+armaduras, accesorios y demás equipo fabricado conservan sus límites normales.
